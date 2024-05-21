@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 154,
+ "articles": [
+  {
+  "source": {
+  "id": null,
+  "name": "Digital Trends"
+  },
+  "author": "Trevor Mogg",
+  "title": "Apple prepping big move with its Vision Pro headset",
+  "description": "Apple has begun training international retail store staff on how to present the Vision Pro to customers, suggesting the device will soon land in new markets.",
+  "url": "https://www.digitaltrends.com/mobile/applepreppingbigmovewithitsvisionproheadset/",
+  "urlToImage": "https://www.digitaltrends.com/wpcontent/uploads/2024/02/visionproapplestore012.jpg?resize=1200%2C630&p=1",
+  "publishedAt": "20240514T01:10:23Z",
+  "content": "Luke Larsen / Digital Trends\r\nSince Apple launched the Vision Pro headset in February, the device has only been on sale in the U.S. But that looks set to change soon. The tech giant is now training s… [+1834 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Gigazine.net"
+  },
+  "author": "@GIGAZINE",
+  "title": "AppleがiOS 17.5をリリース、未知のBluetoothトラッカーを検出・警告する機能が登場",
+  "description": "AppleがiPhone向けのOSであるiOSの最新バージョンとなる「iOS 17.5」の配信を開始しました。データ容量は1.05GBです。同時にiPadOS 17.5もリリースされています。続きを読む...",
+  "url": "https://gigazine.net/news/20240514appleios175/",
+  "urlToImage": "https://i.gzn.jp/img/2024/05/14/appleios175/00_m.png",
+  "publishedAt": "20240514T02:33:00Z",
+  "content": "AppleiPhoneOSiOSiOS 17.51.05GBiPadOS 17.5\r\nAbout the security content of iOS 17.5 and iPadOS 17.5  Apple Supporthttps://support.apple.com/enus/HT214101\r\niOS 17.5iOS 17.51.05GB\r\nAppleiOS 17.5Apple2\r… [+1857 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "9to5Mac"
+  },
+  "author": "Chance Miller",
+  "title": "Apple explains why it hasn’t released a touchscreen Mac (yet?)",
+  "description": "The first iPad Pro reviews are here, and as we rounded up earlier today, they focus a lot on the new OLED displays, the M4 chip, and the limitations of iPadOS as a platform. In an interview with The Wall Street Journal, Apple marketing executive Tom Boger exp…",
+  "url": "https://9to5mac.com/2024/05/13/appleexplainswhyithasntreleasedatouchscreenmacyet/",
+  "urlToImage": "https://i0.wp.com/9to5mac.com/wpcontent/uploads/sites/6/2023/01/MacBookProtouchscreen.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "20240514T00:33:29Z",
+  "content": "The first iPad Pro reviews are here, and as we rounded up earlier today, they focus a lot on the new OLED displays, the M4 chip, and the limitations of iPadOS as a platform. In an interview with The … [+2071 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "9to5Mac"
+  },
+  "author": "Chance Miller",
+  "title": "Here’s how much lighter the iPad Pro’s new Magic Keyboard actually is",
+  "description": "When Apple announced the new iPad Pro lineup last week, it also unveiled a new Magic Keyboard accessory that it touted as being “thinner and lighter” than its predecessor.\n\n\n\nWhile Apple doesn’t share official weight specifications for iPad accessories, the f…",
+  "url": "https://9to5mac.com/2024/05/13/m4ipadpromagickeyboardweight/",
+  "urlToImage": "https://i0.wp.com/9to5mac.com/wpcontent/uploads/sites/6/2024/05/NewiPadProdemand.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "20240514T02:00:33Z",
+  "content": "When Apple announced the new iPad Pro lineup last week, it also unveiled a new Magic Keyboard accessory that it touted as being “thinner and lighter” than its predecessor.\r\nWhile Apple doesn’t share … [+1441 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Android Police"
+  },
+  "author": "Timi Cantisano",
+  "title": "This Android Auto display that's just $35 is the perfect way to level up your incar entertainment experience",
+  "description": "This 10inch screen is easy to install and ultraaffordable — plus it comes with a dash cam.",
+  "url": "https://www.androidpolice.com/grabthisandroidautodisplayforjust35/",
+  "urlToImage": "https://static1.anpoimages.com/wordpress/wpcontent/uploads/2024/05/3212.png",
+  "publishedAt": "20240514T00:21:56Z",
+  "content": "Hikity 10.26 Inch Wireless Android Auto Screen \r\nAn affordable and easy way to add an Android Auto display to your car. This device comes in at 10 inches and also has a dash cam on the front. Further… [+2288 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "AppleInsider"
+  },
+  "author": "news@appleinsider.com (Charles Martin)",
+  "title": "How to master your Mac menubar",
+  "description": "How to make the most of your Mac menubar by rearranging, deleting and adding app icons — with or without third party utilities.If you find yourself with an everincreasing number of small icons on the right side of your Mac's menubar, you can take control and…",
+  "url": "https://appleinsider.com/inside/mac/tips/howtomasteryourmacmenubar",
+  "urlToImage": "https://photos5.appleinsider.com/gallery/59227120863croppedScreenshot20240406at22225PMxl.jpg",
+  "publishedAt": "20240514T04:27:34Z",
+  "content": "How to make the most of your Mac menubar by rearranging, deleting and adding app icons — with or without third party utilities.\r\nIf you find yourself with an everincreasing number of small icons on … [+3700 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Theregister.com"
+  },
+  "author": "Iain Thomson",
+  "title": "RSA Conference 2024: The good, the bad, and the downright worrying",
+  "description": "If there's one thing infosec needs right now, it's a little pickmeup\nKettle San Francisco hosted tens of thousands of computer security folk last week for 2024's RSA Conference – and the vibe was a mix of gloom about the state of infosec and some hope for i…",
+  "url": "https://www.theregister.com/2024/05/14/rsa_conference_kettle/",
+  "urlToImage": "https://regmedia.co.uk/2024/05/13/yt_title_register_kettle.jpg",
+  "publishedAt": "20240514T00:58:06Z",
+  "content": "Kettle San Francisco hosted tens of thousands of computer security folk last week for 2024's RSA Conference and the vibe was a mix of gloom about the state of infosec and some hope for improvement.\r\n… [+610 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "HYPEBEAST"
+  },
+  "author": "info@hypebeast.com (Hypebeast)",
+  "title": "A Closer Look at the New Apple iPad Pro M4 and iPad Air M2",
+  "description": "Apple's latest tablets – iPad Pro M4 and iPad Air M2 – were announced last week during a keynote held for the first time at the brand's new London headquarters. Apple CEO Tim Cook boldly proclaimed that it was \"the biggest day for iPad since its introduction\"…",
+  "url": "https://hypebeast.com/2024/5/acloserlookatthenewappleipadprom4andipadairm2",
+  "urlToImage": "https://imagecdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F05%2F13%2Facloserlookatthenewappleipadprom4andipadairm2tw.jpg?w=1080&cbr=1&q=90&fit=max",
+  "publishedAt": "20240514T01:27:00Z",
+  "content": "Apple’s latest tablets iPad Pro M4 and iPad Air M2 were announced last week during a keynote held for the first time at the brand’s new London headquarters. Apple CEO Tim Cook boldly proclaimed that … [+6871 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Playpcesor.com"
+  },
+  "author": "Esor Huang",
+  "title": "ChatGPT 將免費開放 GPT4o、分析 Excel、搜尋網路、GPTs 功能",
+  "description": "OpenAI 昨天晚上（2024/5/13）的發布會， 公布了類似電影中才會出現的即時語音、視覺智慧型助理： GPT4o （“o”代表“omni”），具備 GPT4 的文字、圖像處理能力， 但語音回應的速度接近真實人類對話反應 （不像之前要等待很久才回應），而且具備視覺能力...",
+  "url": "https://www.playpcesor.com/2024/05/chatgptgpt4oexcelgpts.html",
+  "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEgPJfP285hIIY1bEYQYYAZTE1LTwwWOi1wGiK65zbNM8WlgNzCx7CqZsgFkHPFmselXx84bV1pcXtqUr_4W37mjeAtNxVZ0VHmC5bbTQbsyNqOZhYKB5lPxDMsok8K0kFyisaZxAnb76AIUukRUPGPuGcSVGPJI29DlLfyUhiA290eOQFAyac=w1200h630pknonu",
+  "publishedAt": "20240514T00:49:00Z",
+  "content": "OpenAI 昨天晚上（2024/5/13）的發布會，公布了類似電影中才會出現的即時語音、視覺智慧型助理：GPT4o（“o”代表“omni”），具備 GPT4 的文字、圖像處理能力，但語音回應的速度接近真實人類對話反應（不像之前要等待很久才回應），而且具備視覺能力可以看到四周環境進行互動。在 OpenAI 的示範中， GPT4o 像是一個真正的智慧型助理，可以即時口語翻譯、看考卷解答數學問… [+1759 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Ifanr.com"
+  },
+  "author": "何晓涵",
+  "title": "早报|OpenAI 正式发布 GPT4o/微信 QQ 同步上线地震预警平台/小米与京东达成全新战略合作",
+  "description": "· 淘宝首页改版\n· IDC 预测全球 2024 年将生成 159.2ZB 数据\n· Apple Music 首次发布 Best 100 专辑榜单#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+  "url": "https://www.ifanr.com/1585190",
+  "urlToImage": "https://s3.ifanr.com/images/ep/coverimages/zai_xue_di_shang_ku_xuan_hou_kong_fan_cover.jpg",
+  "publishedAt": "20240514T00:32:18Z",
+  "content": "OpenAI GPT4o\r\nOpenAI GPT4ooomni GPT5 \r\n GPT4 ChatGPT Plus GPT4o \r\n<ul><li>GPT4o </li><li>GPT4o 232 320 </li><li>GPT4o </li><li>GPT4o API GPT 4Turbo 2 50%</li></ul>\r\nQQ \r\nSSV QQ \r\nCEO \r\n 200… [+1210 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "01net.com"
+  },
+  "author": "Mickaël Bazoge",
+  "title": "01net morning : FRAlert résonne à Paris pour des codes QR, ChatGPT beaucoup plus puissant, prise en main du Google Pixel 8a",
+  "description": "Bonjour à tous, voici la matinale de 01net ! Qu’avez vous manqué hier ? Retrouvez toute l’actu à connaitre pour démarrer la journée du bon pied.",
+  "url": "https://www.01net.com/actualites/01netmorningfralertresonneaparispourdescodesqrchatgptbeaucouppluspuissantpriseenmaindugooglepixel8a.html",
+  "urlToImage": "https://www.01net.com/app/uploads/2024/05/01netMorning9.jpg",
+  "publishedAt": "20240514T04:02:29Z",
+  "content": "Bonjour à tous, voici la matinale de 01net ! Quavez vous manqué hier ? Retrouvez toute lactu à connaitre pour démarrer la journée du bon pied.La Préfecture de Police de Paris a fait sonner ce soir la… [+1505 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "GSMArena.com"
+  },
+  "author": "Vlad",
+  "title": "iOS 17.5 is out with crossplatform unwanted tracker detection",
+  "description": "Apple has released iOS 17.5, which should already be available to download and install for everyone with a supported iPhone. This version brings with it crossplatform support for unwanted tracker detection.\n\nThis has been developed in cooperation with Google…",
+  "url": "https://www.gsmarena.com/ios_175_is_out_with_crossplatform_unwanted_tracker_detectionnews62845.php",
+  "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/05/ios175/952x498w6/gsmarena_000.jpg",
+  "publishedAt": "20240514T02:47:02Z",
+  "content": "Apple has released iOS 17.5, which should already be available to download and install for everyone with a supported iPhone. This version brings with it crossplatform support for unwanted tracker de… [+848 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Thesun.com"
+  },
+  "author": "Jack Hobbs",
+  "title": "Humanlike robot tells students to take risks in graduation speech...",
+  "description": "Humanlike robot tells students to take risks in graduation speech...\r\n\n \n \n \n (Top headline, 4th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:Artificial Intelligence Trained To Deceive Humans, Lie...\r\nOPENAI gives ChatGPT new powers to see, hear...\r\nAltman Maki…",
+  "url": "https://www.thesun.com/tech/11358440/dyouvilleuniversitybuffalonewyorkrobotsophiahansongraduation/",
+  "urlToImage": "https://www.thesun.com/wpcontent/uploads/sites/6/2024/05/LD_ROBOTGRADUATIONSPEECH_OP_ced59a.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+  "publishedAt": "20240514T01:58:36Z",
+  "content": "A ROBOT created with artificial intelligence was selected by a US college to give the primary commencement speech, sparking fears of an AI takeover.\r\nWhat started as a normal commencement ceremony to… [+3695 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Impress.co.jp"
+  },
+  "author": null,
+  "title": "古いiPhone/iPad向けに「iOS 16.7.8」「iPadOS 16.7.8」、脆弱性の解消",
+  "description": "アップル（Apple）は、旧世代のiPhone向けに「iOS 16.7.8」、iPad向けに「iPadOS 16.7.8」の提供を開始した。",
+  "url": "https://ktai.watch.impress.co.jp/docs/news/1591219.html",
+  "urlToImage": "https://ktai.watch.impress.co.jp/img/ktw/list/1591/219/01.jpg",
+  "publishedAt": "20240514T04:03:19Z",
+  "content": "AppleiPhoneiOS 16.7.8iPadiPadOS 16.7.8 \r\n RTKit \r\n iPhone 8iPhone 8 PlusiPhone XiPad5iPad Pro9.712.9"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Impress.co.jp"
+  },
+  "author": null,
+  "title": "アップルがiPhone向け「iOS 17.5」配信開始、追跡デバイスの悪用を防ぐ新機能など",
+  "description": "米アップル（Apple）は、iPhone向けの最新ソフトウェア「iOS 17.5」、iPad向けの最新ソフトウェア「iPadOS 17.5」の提供を開始した。",
+  "url": "https://ktai.watch.impress.co.jp/docs/news/1591189.html",
+  "urlToImage": "https://ktai.watch.impress.co.jp/img/ktw/list/1591/189/100.jpg",
+  "publishedAt": "20240514T02:38:56Z",
+  "content": "AppleiPhoneiOS 17.5iPadiPadOS 17.5 \r\n iOS 17.5/iPadOS 17.5Bluetooth"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Impress.co.jp"
+  },
+  "author": null,
+  "title": "iOS/iPad OS 17.5提供開始。AirTagなどの悪用防止機能を追加",
+  "description": "Appleは13日(米国時間)、iPhone向け最新OS「iOS 17.5」およびiPad向けの「iPadOS 17.5」を提供開始した。",
+  "url": "https://pc.watch.impress.co.jp/docs/news/1591208.html",
+  "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1591/208/01.jpg",
+  "publishedAt": "20240514T03:08:59Z",
+  "content": "Apple13()iPhoneOSiOS 17.5iPadiPadOS 17.5 \r\n AirTagBluetoothBluetooth \r\n AppleGoogleDetecting Unwanted Location TrackersBluetoothiOSiPadOSOS \r\n LGBTQ+ \r\n Find My(CVE202427839)(CVE202427818)WebKit(… [+14 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Impress.co.jp"
+  },
+  "author": null,
+  "title": "AppleとGoogle、紛失防止タグの悪用防止でタッグ",
+  "description": "AppleとGoogleは共同で13日(米国時間)、AirTagなどのBluetoothトラッカーを悪用した位置追跡行為への対策として、新たな仕様「Detecting Unwanted Location Trackers」を策定したと発表した。同日公開のiOS/iPadOS 17.5と、Android 6.0以降のデバイスで、それぞれ提供を開始する。",
+  "url": "https://pc.watch.impress.co.jp/docs/news/1591187.html",
+  "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1591/187/01.jpg",
+  "publishedAt": "20240514T02:49:44Z",
+  "content": "AppleGoogle13()AirTagBluetoothDetecting Unwanted Location TrackersiOS/iPadOS 17.5Android 6.0 \r\n Bluetooth \r\n BluetoothOS \r\n AirTagFind MyChipoloeufyJioMotorolaPebblebee"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Impress.co.jp"
+  },
+  "author": null,
+  "title": "CIO、Qi2/Magsafeにも対応したケーブル一体型モバイルバッテリ",
+  "description": "株式会社CIOは、AppleのiPhoneなどに搭載されている無線充電規格「Magsafe」と同等の「Qi2」に準拠したモバイルバッテリ「SMARTCOBY Ex SLIM Qi2 &amp; Cable」を、クラウドファンディング「Makuake」で発売した。14日11時半時点で商品が入手可能な最低出資額は3,700円で、2024年7月の出荷を目指す。",
+  "url": "https://pc.watch.impress.co.jp/docs/news/1591231.html",
+  "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1591/231/01.jpg",
+  "publishedAt": "20240514T03:36:41Z",
+  "content": "CIOAppleiPhoneMagsafeQi2SMARTCOBY Ex SLIM Qi2 &amp; CableMakuake14113,70020247 \r\n Qi15WQi25,000mAhQi2AppleMagsafeiOS 17.4iPhone 12AndroidQi2 \r\n USB TypeC20W \r\n 5W \r\n 65.5×91×16.2mm138g"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "DIE WELT"
+  },
+  "author": "Juliane Nora Schneider",
+  "title": "Verdachtsfall AfD – Diese Folgen hat das Urteil für die Bundespartei",
+  "description": "Das NRWOberlandesgericht bestätigt die Einstufung der AfD als rechtsextremistischen Verdachtsfall. Das Urteil hat Folgen für die Partei – auch für ein mögliches Verbotsverfahren. Politikredakteur Frederik Schindler war im Gerichtsaal und analysiert die Entsc…",
+  "url": "https://www.welt.de/podcasts/article251495262/VerdachtsfallAfDDieseFolgenhatdasUrteilfuerdieBundesparteiPodcast.html",
+  "urlToImage": "https://img.welt.de/img/podcasts/mobile249731462/0401352707ci16x9w1200/DWOPodcastTeaserDasbringtderTagJulianeSchneider.jpg",
+  "publishedAt": "20240514T02:54:27Z",
+  "content": "Hier können Sie die aktuelle Folge von Das bringt der Tag direkt hören:\r\nAbonnieren Sie den Podcast unter anderem bei Spotify, Apple Podcasts oder Amazon Music.\r\nDas bringt der Tag jeden Morgen ab 5 … [+805 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Digiday"
+  },
+  "author": "Kristina Monllos",
+  "title": "Marketing Briefing: Backlash ‘a sign of the times’ as major brands like Apple and Bumble pull ads drawing ire",
+  "description": "What happens if that provocative campaign has the opposite of its intended effect?",
+  "url": "http://digiday.com/marketing/marketingbriefingbacklashasignofthetimesasmajorbrandslikeappleandbumblepulladsdrawingire/",
+  "urlToImage": "https://digiday.com/wpcontent/uploads/sites/3/2024/03/aiimaginationdigiday.png",
+  "publishedAt": "20240514T04:01:00Z",
+  "content": "This Marketing Briefing covers the latest in marketing for Digiday+ members and is distributed over email every Tuesday at 10 a.m. ET. More from the series →Creating an ad that will get noticed is a … [+8652 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Ghacks Technology News"
+  },
+  "author": "Ashwin",
+  "title": "iOS 17.5 and macOS Sonoma 14.5 update adds antitracking feature, offline support for News+",
+  "description": "Apple has released the iOS 17.5, macOS Sonoma 14.5 and iPadOS 17.5 updates. The new software comes with a crossplatform antitracker feature, and improves the capabilities of the News app. What's new […]\nThank you for being a Ghacks reader. The post iOS 17.5…",
+  "url": "https://www.ghacks.net/2024/05/14/ios175andmacossonoma145updateaddsantitrackingfeatureofflinesupportfornews/",
+  "urlToImage": "https://www.ghacks.net/wpcontent/uploads/2024/05/iOS17.5andmacOSSonoma14.5updateaddsantitrackingfeatureofflinesupportforNews.jpg",
+  "publishedAt": "20240514T04:29:11Z",
+  "content": "Apple has released the iOS 17.5, macOS Sonoma 14.5 and iPadOS 17.5 updates. The new software comes with a crossplatform antitracker feature, and improves the capabilities of the News app.\r\nWhat's n… [+3830 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Forbes"
+  },
+  "author": "Ben Sin, Contributor, \n Ben Sin, Contributor\n https://www.forbes.com/sites/bensin/",
+  "title": "M4 iPad Pro Review: DoItAll Machine For Work And Play",
+  "description": "Apple’s tablet is the first machine to run the company’s latest silicon.",
+  "url": "https://www.forbes.com/sites/bensin/2024/05/13/m4ipadproreviewdoitallmachineforworkandplay/",
+  "urlToImage": "https://imageio.forbes.com/specialsimages/imageserve/66417e85929f6f025cb31055/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+  "publishedAt": "20240514T01:13:32Z",
+  "content": "M4 iPad Pro\r\nBen Sin\r\nWhen the iPad Pro first debuted nine years ago, Apple ran a marketing campaign hailing it as a computer replacement, an idea so far from reality that I wrote an article mocking … [+6611 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Olhardigital.com.br"
+  },
+  "author": "Leandro Costa Criscuolo",
+  "title": "ChatGPT vai ganhar aplicativo para Mac antes do Windows",
+  "description": "Aplicativo do ChatGPT para Mac será liberado primeiro para assinantes do chatbot pago\nO post ChatGPT vai ganhar aplicativo para Mac antes do Windows apareceu primeiro em Olhar Digital.",
+  "url": "https://olhardigital.com.br/2024/05/13/interneteredessociais/chatgptvaiganharaplicativoparamacantesdowindows/",
+  "urlToImage": "https://olhardigital.com.br/wpcontent/uploads/2024/05/chatgpt2.jpg",
+  "publishedAt": "20240514T00:00:32Z",
+  "content": "Os usuários de Mac que não gostam de usar o ChatGPT pelo navegador receberam uma boa notícia nesta segundafeira (13). O chatbot da OpenAI ganhará um aplicativo exclusivo para os computadores da Appl… [+1536 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Olhardigital.com.br"
+  },
+  "author": "José Ferreira",
+  "title": "99: como criar conta de passageiro",
+  "description": "Se você quer usar a 99 para viajar ou pedir produtos, mas não entendeu como criar uma conta no aplicativo, confira este tutorial\nO post 99: como criar conta de passageiro apareceu primeiro em Olhar Digital.",
+  "url": "https://olhardigital.com.br/2024/05/13/dicasetutoriais/99comocriarcontadepassageiro/",
+  "urlToImage": "https://img.odcdn.com.br/wpcontent/uploads/2024/05/CopiadeTemplateprintdeduastelas43.jpg",
+  "publishedAt": "20240514T00:20:00Z",
+  "content": "A 99 é uma companhia de transporte privado e de entregas que atende atualmente mais de 40 milhões de usuários e possui sete categorias de serviço. Caso você ainda não tenha uma conta na plataforma, v… [+1969 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "3dnews.ru"
+  },
+  "author": null,
+  "title": "Apple и Google начали борьбу со слежкой через популярные Bluetoothтрекеры",
+  "description": "Apple и Google объединили усилия для борьбы со слежкой за людьми с использованием Bluetoothтрекеров. Теперь iPhone и Androidсмартфоны будут предупреждать пользователей о нахождении поблизости беспроводного трекера, если пользователь не знал, что за ним след…",
+  "url": "https://3dnews.ru/1104745/appleigooglenachaliborbusoslegkoycherezpopulyarniebluetoothtrekeri",
+  "urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/05/14/1104745/appleigooglenachaliborbusoslegkoycherezpopulyarniebluetoothtrekerimain.jpg",
+  "publishedAt": "20240514T03:43:00Z",
+  "content": "Apple Google Bluetooth. iPhone Android , , , .\r\n: Apple\r\n, Apple AirTagTile. , , .\r\n (), iOS 17.5 iPhone Android 6.0 . Bluetooth, . , , .\r\n2021 Apple AirTag, , , . Apple Bluetooth , , , .\r\n . , A… [+162 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Tinhte.vn"
+  },
+  "author": "noreply@tinhte.vn (Anh Tú.), Anh Tú.",
+  "title": "Trên tay iPhone 16 Pro bản dummy: nút tính năng mới, màu đen đậm hơn, kích thước màn hình to hơn",
+  "description": "Trong khoảng thời gian qua thì đã có rất nhiều hình ảnh rò rỉ trên mạng về iPhone 16 Pro rồi và mình đã được cầm 1 trong những bản rò rỉ đó trên tay và chia sẻ với anh em. Mình đã mượn được iPhone 16 Pro bản dummy để chia sẻ nhanh cho anh em sơ qua…",
+  "url": "https://tinhte.vn/thread/trentayiphone16probandummynuttinhnangmoimaudendamhonkichthuocmanhinhtohon.3786290/",
+  "urlToImage": "https://photo2.tinhte.vn/data/attachmentfiles/2024/05/8333326_DSC1009.jpg",
+  "publishedAt": "20240514T03:03:34Z",
+  "content": "Xích li gn nhau hn, s khác bit càng rõ ràng hn, iPhone 16 Pro dài hn, rng hn.\r\nn vi mt lng, s khác bit còn rõ hn. Màu en ca iPhone 16 Pro (bên phi) m hn khá nhiu so vi màu en trên iPhone 15 Pro (bên … [+1964 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Netaful.jp"
+  },
+  "author": "コグレマサト",
+  "title": "Apple、WWDC後に「Apple Vision Pro」を日本を含む多くの国で発売へ",
+  "description": "MacRumorsによると「Apple Vision Pro」はWWDC後に、日本を含む多くの国で発売されるようです。Apple to Expand Vision Pro to Additional Countries ...\n投稿 Apple、WWDC後に「Apple Vision Pro」を日本を含む多くの国で発売へ は ネタフル に最初に表示されました。",
+  "url": "https://netaful.jp/applevision/0150398.html",
+  "urlToImage": "https://netaful.jp/wpcontent/uploads/2023/10/applevisioneyesight.jpg",
+  "publishedAt": "20240514T03:10:00Z",
+  "content": "MacRumorsApple Vision ProWWDCApple to Expand Vision Pro to Additional Countries After WWDC\r\nSales of the Apple Vision Pro will soon begin in countries outside of the United States, reports Bloomberg.… [+215 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Netaful.jp"
+  },
+  "author": "コグレマサト",
+  "title": "【iPad整備済製品】iPad Air・11インチiPad Pro・12.9インチiPad Pro・iPadアクセサリ【2024年5月14日】",
+  "description": "Apple公式サイトの「iPad整備済製品」の情報です。 Appleの整備済み品は問題があって返品された商品などを整備し、テスト後認定されたものです。1年間の特別保証が付いています。 最新の在庫情報は「Apple整備済製...\n投稿 【iPad整備済製品】iPad Air・11インチiPad Pro・12.9インチiPad Pro・iPadアクセサリ【2024年5月14日】 は ネタフル に最初に表示されました。",
+  "url": "https://netaful.jp/applerefurbished/0150402.html",
+  "urlToImage": "https://netaful.jp/wpcontent/uploads/2024/05/applerefurbishedipad1.jpg",
+  "publishedAt": "20240514T04:00:00Z",
+  "content": "AppleiPad\r\nApple1\r\nApple\r\nApple Pencil2[]\r\n18,580\r\niPad Air WiFi + Cellular 64GB – 4[]\r\n82,800\r\niPad Air WiFi + Cellular 64GB – 4[]\r\n82,800\r\niPad Air WiFi + Cellular 64GB – 4[]\r\n82,800\r\niPad Air W… [+624 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "3dnews.ru"
+  },
+  "author": null,
+  "title": "Apple готовится выпустить Vision Pro на рынки за пределами США",
+  "description": "Компания Apple планирует расширить географию продаж своей гарнитуры дополненной реальности Vision Pro, так как первоначальный покупательский ажиотаж на этот дорогой гаджет в США спадает. Apple надеется, что международные рынки, такие как Китай и Япония, помог…",
+  "url": "https://3dnews.ru/1104744/applegotovitsyavipustitvisionprozapredelamissha",
+  "urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/05/14/1104744/igoromilaeveedxZDdBZsYunsplash.jpg",
+  "publishedAt": "20240514T03:00:00Z",
+  "content": "Apple Vision Pro, . Apple , , , , , AR , Bloomberg.\r\n: Igor Omilaev/Unsplash\r\n, Vision Pro . , Apple, .  , .\r\n , , , , , , . , Vision Pro WWDC .\r\n, , . , . , . , .\r\n , , , — 3499 , iPhone. , .\r\n , A… [+59 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Sspai.com"
+  },
+  "author": "少数派编辑部",
+  "title": "派早报：vivo 发布 X100 Ultra 等，OpenAI 发布 GPT4o 等",
+  "description": "腾讯 QQ / 微信上线地震预警功能，Apple Music 推出百大最佳专辑榜单等查看全文",
+  "url": "https://sspai.com/post/88779",
+  "urlToImage": "https://cdn.sspai.com/2024/5/14/article/733d423d872293d51fb63f94273520e1.png",
+  "publishedAt": "20240514T01:10:55Z",
+  "content": "vivo X100 Ultra \r\n5 13 vivo X100 \r\nvivo X100 Ultra vivo V3+ 2 APO LYT900 GLC T* 4K 120 fps 8 Gen 3 5500 mAh 2K E7 IP69 IP68 6499 \r\nvivo X100s VarioTessar V2 x 9300+ IP69 IP68 3999 \r\nvivo X100s Pro … [+703 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Tinhte.vn"
+  },
+  "author": "noreply@tinhte.vn (Anh Tú.), Anh Tú.",
+  "title": "Apple phát hành iOS 17.5 chính thức: đọc Apple News+ không cần internet, cảnh báo theo dõi,...",
+  "description": "Ngỡ như là Apple sẽ tung iOS 17.5 cùng với iPad mới những cho tới giờ mới có iOS 17.5, thực chất trong phiên bản này không có gì mới, chủ yếu là cập nhật 1 số tính năng cho người dùng và nhà phát triển ở EU.",
+  "url": "https://tinhte.vn/thread/applephathanhios175chinhthucdocapplenewskhongcaninternetcanhbaotheodoi.3784946/",
+  "urlToImage": "https://photo2.tinhte.vn/data/attachmentfiles/2024/05/8327314_8299424e2f2e2e2e.webp",
+  "publishedAt": "20240514T00:35:54Z",
+  "content": "Trc ó, vào nm ngoái, các nhà sn xut thit b theo dõi nh Tile, Chipolo, Samsung, Eufy và Pebblebee u bày t s ng h i vi s chung tay ca Apple và Google. Vi vic trin khai tính nng cnh báo này, ngi dùng s … [+149 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Impress.co.jp"
+  },
+  "author": null,
+  "title": "「macOS Sonoma 14.5」が公開 ～「Apple News+」に新しいデイリーワードゲーム／セキュリティ関連の修正はCVE番号ベースで22件",
+  "description": "米Appleは5月13日（現地時間）、「macOS Sonoma 14.5」を正式にリリースした。以下の改善と不具合修正を施したマイナーアップデートとなっている。",
+  "url": "https://forest.watch.impress.co.jp/docs/news/1591238.html",
+  "urlToImage": "https://forest.watch.impress.co.jp/img/wf/list/1591/238/macos_sonoma.jpg",
+  "publishedAt": "20240514T03:46:45Z",
+  "content": "Apple513macOS Sonoma 14.5 \r\n<ul><li>Apple News+QuartilesNews+</li><li>News+Quartiles</li></ul> CVE22"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Unwire.hk"
+  },
+  "author": "藍骨",
+  "title": "OpenAI 正式推出 GPT4o 模型　可理解用家表情提供更親切對答",
+  "description": "被 OpenAI 總裁 Sam Altman 形容為「感覺像魔法」的發佈會上，他們雖然沒有最初傳聞中的 GPT5 和搜尋引擎產品，但仍然公佈了新的 GPT4o 新版本，提供更快和更強勁的多媒體分析能力，而且向所有用家免費提供。\nThe post OpenAI 正式推出 GPT4o 模型　可理解用家表情提供更親切對答 appeared first on 香港 unwire.hk 玩生活．樂科技.",
+  "url": "https://unwire.hk/2024/05/14/openaigpt4o/ai/",
+  "urlToImage": "https://cdn.unwire.hk/wpcontent/uploads/2024/05/download212694x390.jpg",
+  "publishedAt": "20240514T01:30:54Z",
+  "content": "OpenAI Sam Altman GPT5 GPT4o \r\nOpenAI GPT4oOmni GPT4 ChatGPT \r\n OpenAI GPT4o API GPT4 Turbo \r\nScreenshot\r\nChatGPT ChatGPT Plus ChatGPT Plus 5 Sam Altman OpenAI AI\r\nOpenAI\r\n:<li>Apple AI 300 AI … [+50 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Macmagazine.com.br"
+  },
+  "author": "Douglas Nascimento",
+  "title": "Apple reconhece e corrigirá problema de exibição no display do novo iPad Pro",
+  "description": "Um dos maiores destaques dos iPads Pro com o chip M4 é a tela OLED Organic lightemitting diode, ou diodo emissor de luz orgânico. — que está sendo bastante elogiado nas primeiras avaliações da imprensa. No entanto, ela também está apresentando um problema ao…",
+  "url": "https://macmagazine.com.br/post/2024/05/13/applereconheceecorrigiraproblemadeexibicaonodisplaydonovoipadpro/",
+  "urlToImage": "https://macmagazine.com.br/wpcontent/uploads/2024/05/AppleiPadProOctane2405071260x840.jpg",
+  "publishedAt": "20240514T00:04:42Z",
+  "content": "Um dos maiores destaques dos iPads Pro com o chip M4 é a tela OLED 1Organic lightemitting diode, ou diodo emissor de luz orgânico. que está sendo bastante elogiado nas primeiras avaliações da impren… [+1505 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Macmagazine.com.br"
+  },
+  "author": "Luiz Gustavo Ribeiro",
+  "title": "Apple libera atualização do Logic Pro (para Mac e iPad) com recursos de IA",
+  "description": "Como prometido na semana passada, a atualização do Logic Pro com recursos avançados alimentados por inteligência artificial foi disponibilizada hoje para usuários de Macs e iPads. Agora nas versões 11.0 (para Mac) e 2.0 (para iPad), o software inclui algumas …",
+  "url": "https://macmagazine.com.br/post/2024/05/13/appleliberaatualizacaodologicproparamaceipadcomrecursosdeia/",
+  "urlToImage": "https://macmagazine.com.br/wpcontent/uploads/2024/05/AppleLogicProonMacandiPad2405071260x709.jpg",
+  "publishedAt": "20240514T00:13:09Z",
+  "content": "Como prometido na semana passada, a atualização do Logic Pro com recursos avançados alimentados por inteligência artificial foi disponibilizada hoje para usuários de Macs e iPads.\r\nAgora nas versões … [+3121 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Thenewslens.com"
+  },
+  "author": "中央通訊社",
+  "title": "8字元密碼可在37秒內遭駭客破解，專家建議「愈長愈安全」",
+  "description": "一組只有數字組成的簡單8字元密碼，只要花37秒就能以「蠻力」破解，即嘗試盡可能多的組合來反覆試驗。若採只含數字的16字元密碼，則需要119年才能試出正確答案。專家們提倡採用更長的密碼，即使相對簡單也可以。一組結合數字、大小寫字母和符號的8字元密碼需要7年來破解，仍比破解一組只有數字的16字元密碼來得快。",
+  "url": "https://www.thenewslens.com/article/202662",
+  "urlToImage": "https://image1.thenewslens.com/2024/5/s9ad6uxs3ebwgh8sfxo0iu8b90fde5.jpg?fm=jpg&format=crop&h=630&q=70&w=1200",
+  "publishedAt": "20240514T02:18:02Z",
+  "content": "942023Great Place to Work2023Sabrina\r\nXYZ00\r\nPhoto Credit: TNL Brand Studio\r\n50Sabrina20HOW to doWHY to do\r\nSabrina278456\r\nSabrinaI welcome you back\r\nSabrinaAbraham Harold MaslowHierarchy of Needs Th… [+381 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Thenewslens.com"
+  },
+  "author": "中央通訊社",
+  "title": "蘋果M3晶片版MacBook Air實測，專家：布局AI力道更強",
+  "description": "從產品規格來看，Tim哥認為，目前使用英特爾晶片或M1晶片的消費者，升級到M3版MacBook Air會很有感，不僅闔上筆電可以外接2台顯示器，更適合多工作業，15吋機型還搭載6支揚聲器，影音體驗更好。只是他也提醒，RAM記憶體選擇16GB以上會比較夠用，特別是有影音剪輯需求的用戶。",
+  "url": "https://www.thenewslens.com/article/202663",
+  "urlToImage": "https://image1.thenewslens.com/2024/5/5jspr6rxvx4b3luwtny505aouw808a.jpg?fm=jpg&format=crop&h=630&q=70&w=1200",
+  "publishedAt": "20240514T02:28:34Z",
+  "content": "942023Great Place to Work2023Sabrina\r\nXYZ00\r\nPhoto Credit: TNL Brand Studio\r\n50Sabrina20HOW to doWHY to do\r\nSabrina278456\r\nSabrinaI welcome you back\r\nSabrinaAbraham Harold MaslowHierarchy of Needs Th… [+381 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "AdExchanger"
+  },
+  "author": "AdExchanger",
+  "title": "Creatives Chase Their Cut; Brand Safety Backfires For Verifiers",
+  "description": "Here’s today’s AdExchanger.com news roundup… Want it by email? Sign up here. Hidden Talent Hollywood creatives are being crushed by studios. They suffered a blow during the writers’ and actors’ strikes last year and they’re about to lose out again due to new…",
+  "url": "http://www.adexchanger.com/dailynewsroundup/tuesday14052024/",
+  "urlToImage": "https://liveadexchanger.pantheonsite.io/wpcontent/uploads/2020/03/comic_landofthegiants300e1666904800328.jpg",
+  "publishedAt": "20240514T04:03:28Z",
+  "content": "Heres todays AdExchanger.com news roundup Want it by email? Sign up here.\r\nHidden Talent\r\nHollywood creatives are being crushed by studios. They suffered a blow during the writers and actors strikes… [+4157 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "DIE WELT"
+  },
+  "author": "Anja Ettel, Daniel Eckert",
+  "title": "Das GamestopRevival und aussichtsreiche DaxNachzügler",
+  "description": "In der heutigen Folge von „Alles auf Aktien“ sprechen die Finanzjournalisten Anja Ettel und Daniel Eckert über die CeconomyÜberraschung, fette Dividendengewinne mit einem AktienNordlicht und den PausetastenEffekt der Inflation.",
+  "url": "https://www.welt.de/podcasts/allesaufaktien/article251500114/BoersenPodcastGamestopAMCRobinhoodRevivalderMemeAktien.html",
+  "urlToImage": "https://img.welt.de/img/podcasts/allesaufaktien/mobile244546270/1021351817ci16x9w1200/etteleckertDWOPodcastTeaserAllesAufAktienmit2zu3etteleckertaw.jpg",
+  "publishedAt": "20240514T02:54:48Z",
+  "content": "Außerdem geht es um AMC Entertainment, Reddit, Robinhood, Porsche AG, Deutsche Börse, Teamviewer, Kontron, Evotec, Adtran, Standard Lithium und Amundi Stoxx Europe 600 ETF (WKN: LYX0Q0).\r\nHier die ak… [+279 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Natalie.mu"
+  },
+  "author": "音楽ナタリー",
+  "title": "シティポップ花火、府中の空に打ち上がる",
+  "description": "「シティポップ」をテーマにした花火大会「府中市制施行70周年記念 TOKYO シティポップ 花火 2024」が7月3日に東京・府中市の東京競馬場で開催される。",
+  "url": "https://natalie.mu/music/news/573247",
+  "urlToImage": "https://ogre.natalie.mu/media/news/music/2024/0514/tokyo_Citypop_main1_small.jpg?impolicy=twitter_card_face_crop",
+  "publishedAt": "20240514T03:33:00Z",
+  "content": "70 TOKYO 2024 (c)APPLE FARM INC."
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "NBCSports.com"
+  },
+  "author": "Mike Florio",
+  "title": "Amazon makes late push to land Christmas games",
+  "description": "Just when it was beginning to look a lot like Netflix, Amazon could salvage the 12/25 broadcast(s).",
+  "url": "https://www.nbcsports.com/nfl/profootballtalk/rumormill/news/amazonmakeslatepushtolandchristmasgames",
+  "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/5575cd7/2147483647/strip/true/crop/4518x2541+0+235/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbcsportsproductionnbcsports.s3.useast1.amazonaws.com%2Fbrightspot%2F74%2Fe5%2F511538844e9984b52995ccd0fea8%2Fhttpsdeliverygettyimages.com%2Fdownloads%2F1593019429",
+  "publishedAt": "20240514T03:00:22Z",
+  "content": "For Christmas 2024, it was beginning to look a lot like Netflix. That could be changing.\r\nTheres industry buzz that Amazon is making a strong push to win the rights to one or both of the December 25 … [+837 chars]"
+  },
+  {
+  "source": {
+  "id": "cnn",
+  "name": "CNN"
+  },
+  "author": "Analysis by Laura He, CNN",
+  "title": "McDonald’s, Apple and Tesla can’t bet on making a fortune in China anymore",
+  "description": "For decades, Western companies made a fortune betting on the inexorable rise of the Chinese consumer. Now an economic slump and the emergence of ferocious...",
+  "url": "https://www.cnn.com/2024/05/13/business/chinauscompaniessloweconomyintlhnk?cid=externalfeeds_iluminar_yahoo",
+  "urlToImage": "https://media.zenfs.com/en/cnn_business_articles_218/fb2091aa89f9771559249c4ddeb78a84",
+  "publishedAt": "20240514T02:04:58Z",
+  "content": "Editors Note: Sign up for CNNs Meanwhile in China newsletter, which explores what you need to know about the countrys rise and how it impacts the world.\r\nFor decades, Western companies made a fortune… [+7810 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "The Daily Dot"
+  },
+  "author": "Jack Alban",
+  "title": "‘I feel embarrassed carrying this around’: Walmart shopper has to walk around with shopping cart full of lockedup items",
+  "description": "One Walmart shopper shared the shame she felt while walking through the store carrying \"doublelocked\" items in a viral clip on TikTok. Retailers like Walmart and Target have been under fire in recent years for their strong security measures—but some shoppers…",
+  "url": "https://www.dailydot.com/?p=1574243",
+  "urlToImage": "https://uploads.dailydot.com/2024/05/walmartlockedupproducts.jpg?auto=compress&fm=pjpg",
+  "publishedAt": "20240514T01:00:00Z",
+  "content": "One Walmart shopper shared the shame she felt while walking through the store carrying “doublelocked” items in a viral clip on TikTok. Retailers like Walmart and Target have been under fire in recen… [+3560 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Technews.tw"
+  },
+  "author": "MoneyDJ",
+  "title": "Vision Pro 準備進軍國際市場，6 月 WWDC 過後登場",
+  "description": "蘋果（Apple）首款空間運算設備 Vision Pro，今年 2 月在美正式發售，掀起「一開賣就完售」的盛況。據外媒透露，蘋果 Vision Pro 正規劃進軍美國以外市場，能否延續高量買氣，將是市場關注焦點。 彭博社5月13日率先報導，蘋果一年一度的全球開發者大會（WWDC）將於6月10日至14...",
+  "url": "https://technews.tw/2024/05/14/applepreparestosellvisionprooutsideusforthefirsttime/",
+  "urlToImage": "https://img.technews.tw/wpcontent/uploads/2024/05/14094629/mylokaye2KsHAfo223Aunsplash.jpg",
+  "publishedAt": "20240514T02:30:58Z",
+  "content": "Apple Vision Pro 2 Vision Pro \r\n513WWDC61014Vision Pro CupertinoVision Pro\r\nVision Pro3,4991222015Apple Watch\r\nTim Cook3Vision Pro\r\nVision ProVision ProVision Pro143,000\r\nVision ProVision ProVision P… [+18 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Technews.tw"
+  },
+  "author": "MoneyDJ",
+  "title": "迷因股 GME 飆再爆軋空潮，CPI 前道瓊軟",
+  "description": "投資人靜待關鍵通膨數據與財報出爐、道瓊工業平均指數結束連續 8 個交易日的漲勢，迷因股史祖 GameStop Corp. （GME）暴衝則再次引爆迷因股軋空熱潮。 道瓊工業平均指數5月13日終場下跌0.21%（81.33點）、收39,431.51點。那斯達克指數上漲0.29%（47.34點）、收16...",
+  "url": "https://finance.technews.tw/2024/05/14/usstocks0513/",
+  "urlToImage": "https://img.technews.tw/wpcontent/uploads/2020/12/28170100/stockexchange2816898_1920e1609146078428.jpg",
+  "publishedAt": "20240514T00:40:44Z",
+  "content": "8 GameStop Corp. GME\r\n5130.21%81.3339,431.510.29%47.3416,388.245000.02%1.265,221.420.31%15.064,823.09\r\n133.3%33%32.8%\r\n510567.4477.267610.33.5%202311\r\nFedJerome Powell514105145158PPICPI\r\nNFJ Investme… [+530 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Nextpit.com"
+  },
+  "author": "Jade Bryan",
+  "title": "iPhone 16 Pro's Display Shines Brighter in New Leak",
+  "description": "Apple's iPhone 16 Pro (Max) could feature a brighter display than its predecessor. Here's how the OLED display is compared to Samsung and other rivals.",
+  "url": "https://www.nextpit.com/appleiphone16promaxdisplayhowbrightoledleak",
+  "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/Apple_iPhone_15_Pro_Max/nextpit_Apple_iPhone_15_Pro_Max_Display.jpg",
+  "publishedAt": "20240514T01:19:46Z",
+  "content": "How bright the iPhone 16 Pro (Max) display could be\r\nProlific and reliable leaker Setsuna Digital has shared details on Weibo about the iPhone 16 Pro's OLED display featuring 1200 nits of typical bri… [+2098 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Ixbt.com"
+  },
+  "author": "jin@ixbt.com (Jin)",
+  "title": "Еще до появления Apple CarPlay у этого Ferrari с завода был встроенный iPod Touch. Такую машину выставили на продажу",
+  "description": "Автомобили Ferrari известны своей мощностью и редкостью, но этот 430 Scuderia Spider 16M интересен по другой причине. Кабриолет, выпущенный в 2008 году в честь 16 титулов конструкторов «Формулы1», был оснащен заводским iPod Touch. \r\n Ferrari 430 Scuderia Spi…",
+  "url": "https://www.ixbt.com/news/2024/05/14/applecarplayferrariipodtouch.html",
+  "urlToImage": "https://www.ixbt.com/img/n1/news/2024/4/2/ferrariscuderiaspider16m_large.png",
+  "publishedAt": "20240514T03:21:00Z",
+  "content": "Ferrari , 430 Scuderia Spider 16M . , 2008 16 «1», iPod Touch.\r\nFerrari 430 Scuderia Spider 16M HR Owen . Ferrari 499 , iPod Touch. Becker Cascade iPod Bluetooth. iPod Touch 16 .\r\n iPod Touch, Apple… [+136 chars]"
+  },
+  {
+  "source": {
+  "id": "abcnewsau",
+  "name": "ABC News (AU)"
+  },
+  "author": "Ange Lavoipierre",
+  "title": "First porn, then social media? How age verification tech could cross over",
+  "description": "The timing of South Australia's announcement of a social media ban suggests that the federal government's plan to introduce age verification for porn could easily be expanded — and is it any surprise?",
+  "url": "https://www.abc.net.au/news/20240514/howageverificationtechcouldcrossovertosocialmedia/103843532",
+  "urlToImage": "https://liveproduction.wcms.abccdn.net.au/a795e0e712dd2c1dd38df08d50d056aa?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=77&width=862&height=485&imformat=generic",
+  "publishedAt": "20240514T01:57:55Z",
+  "content": "Hello and welcome to Screenshot, your weekly tech update from national technology reporter Ange Lavoipierre, featuring the best, worst and strangest in tech and online news. Read to the end for an A+… [+4573 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Smzdm.com"
+  },
+  "author": null,
+  "title": "Apple 苹果 iPhone 15 Plus 5G手机 256GB 蓝色 6763.01元（需用券）",
+  "description": "Apple 苹果 iPhone 15 Plus 5G手机 256GB 蓝色 6763.01元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+  "url": "https://www.smzdm.com/p/112540852/",
+  "urlToImage": "https://y.zdmimg.com/202309/13/6500b3a05ec636079.png_d250.jpg",
+  "publishedAt": "20240514T04:21:25Z",
+  "content": "iPhone 15 Plus IP68 201g7.8mm\r\niPhone 15 Plus 6.7 OLED XDR 2796×1290460ppi2000100%DCIP360HziPhone 15Plus A16 6 CPU5GPU 16 iPhone 14 Plus 263550%LightningUSBC\r\niPhone 15 Plus 4800f1.62400120021200f2… [+12 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Smzdm.com"
+  },
+  "author": null,
+  "title": "百亿补贴：Apple 苹果 iPhone 15 Pro 5G手机 128GB 5998元",
+  "description": "玩家之道全新的钛合金边框，有史以来最轻最窄边框的Pro系列，更好更清晰的深度拍照体验。拼多多此款目前活动128GB到手价5998元，256GB到手价6898元，512GB到手价8798元，1TB到手价10328元，近期好价，感兴趣的值友可以入手。",
+  "url": "https://www.smzdm.com/p/112520424/",
+  "urlToImage": "https://y.zdmimg.com/202405/09/663cc0405312a5679.jpg_d250.jpg",
+  "publishedAt": "20240514T01:05:56Z",
+  "content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Smzdm.com"
+  },
+  "author": null,
+  "title": "Apple 苹果 iPad 10.2英寸平板电脑 第9代（64GB WLAN版/MK2K3CH/A）深空灰色 1889.51元",
+  "description": "京东商城现售1899元，叠加plus优惠，实付1889.51元包邮，",
+  "url": "https://www.smzdm.com/p/112536619/",
+  "urlToImage": "https://y.zdmimg.com/202109/16/61430dc2858d92299.jpg_d250.jpg",
+  "publishedAt": "20240514T04:10:42Z",
+  "content": "iPad 100% 10.2 Retina iPad True Tone Retina True Tone iPad 2021 Apple Pecncil \r\niPad A13 20A13 Bionic iPadOS 15 \r\n iPad  iPad Pro Center Stage iPad 12MP Center Stage Center Stage FaceTime iPadCenter … [+8 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Smzdm.com"
+  },
+  "author": null,
+  "title": "百亿补贴：Apple 苹果 iPhone 15 Pro Max 5G手机 256GB 7698元",
+  "description": "玩家之道搭载A17 Pro芯片，更新USBC接口，使用钛合金边框，潜望式长焦镜头~拼多多此款目前活动售价7898元，页面下单领取200元优惠券，实付低至7698元。",
+  "url": "https://www.smzdm.com/p/112520359/",
+  "urlToImage": "https://qny.smzdm.com/202310/18/652f78960e4e42237.jpg_d250.jpg",
+  "publishedAt": "20240514T01:05:56Z",
+  "content": "iPhone 15 Pro Max 6.7ProMotion Super Retina XDR 120Hz iOS 17 iPhone 14 Pro Max 19g\r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 2… [+135 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Smzdm.com"
+  },
+  "author": null,
+  "title": "Apple 苹果 iPad(第 10 代)10.9英寸平板电脑 2022年款(64GB WLAN版/学习办公娱乐/MPQ13CH/A)蓝色 2399元（需用券）",
+  "description": "京东此款目前活动售价2999元，下单领取满2000减400元优惠券，参与满2000元减200元优惠活动，实付低至2399元，近期好价。叠加活动：满2000元减200元叠加优惠券：满2000减400元",
+  "url": "https://www.smzdm.com/p/112540523/",
+  "urlToImage": "https://qny.smzdm.com/202210/19/634f65fb710187819.jpg_d250.jpg",
+  "publishedAt": "20240514T04:21:25Z",
+  "content": "iPad 2022iPad ProiPad Air10.9Liquid2360*1640264PPI500nit10.9HomeIDIPad 2022LightningUSBC\r\nA145nm118 20% 10%16A13280%12001200122°12004K240fps\r\n64GB256GBWLAN5GWiFi 6iPad 2022Apple PenciliPadOS 16 iPad"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Maketecheasier.com"
+  },
+  "author": "Laura Tucker",
+  "title": "Apple Inserting AI Into iOS and macOS Hard to Ignore",
+  "description": "The stories and rumors about AI in upcoming iPadOS, macOS, and more are inundating the news. Find out more about how Apple will be using AI.",
+  "url": "https://www.maketecheasier.com/appleinsertingaiintoiosmacos/",
+  "urlToImage": "https://www.maketecheasier.com/assets/uploads/2024/05/appleandaifeatured.jpg",
+  "publishedAt": "20240514T02:07:46Z",
+  "content": "Apple talked about its new iPads being great for AI last week, but there was no specific information about what was coming. Yet, the stories and rumors about AI in upcoming iPadOS, macOS, and more ar… [+2658 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Maketecheasier.com"
+  },
+  "author": "Sayak Boral",
+  "title": "Top 7 PayPal Alternatives for Online Payment",
+  "description": "PayPal is a popular online payment system, but it can attract high fees. These payment services are good PayPal alternatives.",
+  "url": "https://www.maketecheasier.com/paypalalternativesforonlinepayment/",
+  "urlToImage": "https://www.maketecheasier.com/assets/uploads/2024/05/paypalalternativesfeatured.jpg",
+  "publishedAt": "20240514T00:25:00Z",
+  "content": "PayPal is one of the most popular online payment systems. However, not all countries and individuals use PayPal. If you run into a situation where you cannot use PayPal to transfer money or make onli… [+7968 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Pausaparafeminices.com"
+  },
+  "author": "Bruna Tavares",
+  "title": "Ruleta Chaqueta Gratuito  ¡hace el trabajo Desplazándolo hacia el pelo Diviértete Desprovisto Dinero!",
+  "description": "Content ¿â qué es lo primero? Clases De Apuestas De Ruleta Sobre Casino Están A su disposición Sobre Los Casinos En internet? ¿en que consisten Los Mejores Casinos De Ruleta En internet Acerca de Colombia? ¿sobre cómo Puedo Jugar A la Ruleta En internet Con e…",
+  "url": "https://www.pausaparafeminices.com/ppf/ruletachaquetagratuitohaceeltrabajodesplazandolohaciaelpelodiviertetedesprovistodinero/",
+  "urlToImage": null,
+  "publishedAt": "20240514T00:32:18Z",
+  "content": "Una diferente estrategia conocido es seguir los patrones de números o colores que deberían salido últimamente. Algunos jugadores piensan cual existen una método detrás de el azar desplazándolo hacia … [+6495 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Pausaparafeminices.com"
+  },
+  "author": "Bruna Tavares",
+  "title": "Inoffizieller mitarbeiter Traktandum Angeschlossen Spielsaal Unter einsatz von A1 Retournieren Österreich 2024",
+  "description": "Content Kann Meine wenigkeit Within Ostmark Unter einsatz von Meinem Mobilfunktelefon In einem Spielsaal Einlösen? Existiert Es Das Limitation Für jedes Einzahlungen, Wenn Meinereiner Per Handyrechnung Bezahle? So Testen Unsereiner Angeschlossen Casinos Unter…",
+  "url": "https://www.pausaparafeminices.com/ppf/inoffiziellermitarbeitertraktandumangeschlossenspielsaaluntereinsatzvona1retournierenosterreich2024/",
+  "urlToImage": null,
+  "publishedAt": "20240514T01:48:53Z",
+  "content": "Das 500 percent kasino prämie ist, so ein Spieler within das Anwendung durch Sms wie gleichfalls Einzahlungsmethode nur diesseitigen begrenzten Geldbetrag ausrüsten vermag. Diese KurznachrichtEinzah… [+7786 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "FREDZONE"
+  },
+  "author": "Habib ADECHOKAN",
+  "title": "Roku décroche les droits de diffusion des matchs MLB du dimanche matin !",
+  "description": "Le géant du streaming Roku vient de frapper un grand coup en s’offrant les droits de diffusion des matchs de baseball du dimanche matin qui étaient auparavant détenus par Peacock. Cette annonce, qui intervient à quelques semaines du début de la saison 2024 de…",
+  "url": "https://www.fredzone.org/rokudecrochedroitsdiffusionmatchsmlbdimanchematin",
+  "urlToImage": "https://www.fredzone.org/wpcontent/uploads/2024/05/74865466_m_normal_nonescaled.jpg",
+  "publishedAt": "20240514T03:32:14Z",
+  "content": "Le géant du streaming Roku vient de frapper un grand coup en soffrant les droits de diffusion des matchs de baseball du dimanche matin qui étaient auparavant détenus par Peacock. Cette annonce, qui i… [+2751 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "3dnews.ru"
+  },
+  "author": null,
+  "title": "Apple выпустила iOS 17.5 с поддержкой оповещений о наличии поблизости устройств слежения",
+  "description": "Компания Apple выпустила обновление iOS 17.5 с функцией оповещения о Bluetoothтрекерах (устройств слежения), функцией Repair State, позволяющей ремонтировать iPhone без отключения системы поиска Find My. Также появилась возможность загрузки приложений напрям…",
+  "url": "https://3dnews.ru/1104742/applevipustilaios175spoddergkoyopoveshcheniyonalichiipoblizostiustroystvslegeniya",
+  "urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/05/14/1104742/apple_7483.jpg",
+  "publishedAt": "20240514T02:04:00Z",
+  "content": "Apple iOS 17.5 Bluetooth ( ), Repair State, iPhone Find My. .\r\n: Viva Tung/Apple\r\n, iOS 17, , , , .\r\n Bluetooth. Apple Google . iPhone Android .\r\niOS 17.5 Repair State ( ), iPhone Find My , , .\r\n ,… [+91 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "3dnews.ru"
+  },
+  "author": null,
+  "title": "OpenAI обновила интерфейс ChatGPT — теперь это чёрная дыра",
+  "description": "OpenAI обновила интерфейс ChatGPT, сделав его минималистичным. Теперь пользователь будет «общаться» с большой чёрной точкой, которая изменяется в зависимости от происходящих событий. Когда ИИ говорит, круг меняется, визуально усиливая ощущение диалога и взаим…",
+  "url": "https://3dnews.ru/1104741/openaipredstavilaobnovlenniychatgptsinterfeysomvvidechernogokruga",
+  "urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/05/14/1104741/OpenAi_6574.jpg",
+  "publishedAt": "20240514T02:01:00Z",
+  "content": "OpenAI ChatGPT, . «» , . , , .\r\n: OpenAI\r\nOpenAI (Mira Murati), , . , , , ChatGPT . .\r\n, Apple , , , . , , OpenAI, ChatGPT.\r\n« » . , HAL 9000 «» « 2001 ».  « » (Arthur Clarke), .\r\n : OpenAI\r\nTechcru… [+54 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Applech2.com"
+  },
+  "author": "applech2",
+  "title": "Apple、macOS 12 MontereyとmacOS 13 Ventura向けにCSSのText wrap balanceなどをサポートし脆弱性を修正した「Safari v17.5」をリリース。",
+  "description": "AppleがmacOS 12 MontereyとmacOS 13 Ventura向けにCSSのText wrap balanceなどをサポートし脆弱性を修正した「Safari v17.5」をリリースしています。詳細は以 […]\nThe post Apple、macOS 12 MontereyとmacOS 13 Ventura向けにCSSのText wrap balanceなどをサポートし脆弱性を修正した「Safari v17.5」をリリース。 first appeared on AAPL Ch..",
+  "url": "https://applech2.com/archives/20240514safariv175.html",
+  "urlToImage": "https://applech2.com/wpcontent/uploads/2024/05/Safariv175forVenturaHero.jpg",
+  "publishedAt": "20240514T03:08:43Z",
+  "content": "ApplemacOS 12 MontereymacOS 13 VenturaCSSText wrap balanceSafari v17.5\r\nApple20240513macOS SonomamacOS 14.5 Sonoma (23F79)macOS VenturaMontereymacOS 13.6.7 Ventura (22G720)macOS 12.7.5 Monterey (21H1… [+829 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Ferra.ru"
+  },
+  "author": "Булат Кармак",
+  "title": "На WWDC выпустят глобальную версию VRшлема Apple",
+  "description": "Гарнитура Vision Pro, которая изначально была представлена только в США, готовится к долгожданному международному дебюту.",
+  "url": "https://www.ferra.ru/news/techlife/nawwdcvypustyatglobalnuyuversiyuvrshlemaapple13052024.htm",
+  "urlToImage": "https://www.ferra.ru/imgs/2024/05/13/19/6465633/e321d26d3406814b07d58346a811bf1c5fba3c5f.jpg",
+  "publishedAt": "20240514T03:45:00Z",
+  "content": "Bloomberg, Apple Vision Pro   WWDC   .     Vision Pro Apple,   .\r\n ,   , , , , , ,  ,   . ,  , Vision Pro.\r\n , ,  WWDC,   ."
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Www.abc.es"
+  },
+  "author": "(abc)",
+  "title": "Una abstención en el Sabadell a la opa de BBVA, y otros temas del día",
+  "description": "Código Desktop Imagen para móvil, amp y app Código móvil Código AMP Código APP El consejo de Banco Sabadell consiguió unanimidad para rechazar la opa de BBVA, sin embargo no al 100%, ya que uno de los consejeros, el único, se abstuvo por su desconfianza ante …",
+  "url": "https://www.abc.es/voz/noticiasdeldia/abstencionsabadellopabbvatemasdia20240514204529nt.html",
+  "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/voz/2024/05/13/boletin_758x531U08621866415PZP1024x512@diario_abc.jpg",
+  "publishedAt": "20240514T04:00:00Z",
+  "content": "El consejo de Banco Sabadell consiguió unanimidad para rechazar la opa de BBVA, sin embargo no al 100%, ya que uno de los consejeros, el único, se abstuvo por su desconfianza ante la oferta presentad… [+908 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Ryukoku.ac.jp"
+  },
+  "author": null,
+  "title": "Apple 方面 (iOS / iPadOS, tvOS, watchOS, macOS, Safari)",
+  "description": "セキュリティホール memo  各種 OS のセキュリティホールの備忘録",
+  "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2024/05.html#20240514_apple",
+  "urlToImage": null,
+  "publishedAt": "20240514T00:00:00Z",
+  "content": "Last modified: Tue May 14 12:31:25 2024\r\n +0900 (JST)URL: http://goo.gl/pwSGQR :\r\nhttp://goo.gl/pwSG.qr\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2024 |\r\n20… [+2729 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Appllio.com"
+  },
+  "author": "アプリオ編集部",
+  "title": "「iOS 17.5」アップデートが配信開始、他社製Bluetoothトラッカーの検出機能が追加",
+  "description": "Appleは2024年5月14日、「iOS 17.5」アップデートの配信を開始しました。",
+  "url": "https://appllio.com/news/2024051450681ios175update",
+  "urlToImage": "https://appllio.com/sites/default/files/styles/cover_xl_1/public/2024/05/14/rentryimageios175update.jpg",
+  "publishedAt": "20240514T02:38:07Z",
+  "content": "Apple2024514iOS 17.5\r\niOS 17.5BluetoothOS\r\niPhoneAirTagBluetoothiOS 17.5Bluetooth"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Impress.co.jp"
+  },
+  "author": null,
+  "title": "アップルとグーグル、位置情報の不正追跡を防ぐ機能を共同開発",
+  "description": "AppleとGoogleは、共同でBluetoothの追跡デバイス向けの業界規格「Detecting Unwanted Location Trackers(不要な位置情報トラッカーの検出)」を作成した。同規格により、iOSデバイスとAndroidデバイスが知らないうちにユーザーの追跡に使用されている場合、iOSとAndroidの両方でユーザーに警告できるようになる。",
+  "url": "https://www.watch.impress.co.jp/docs/news/1591180.html",
+  "urlToImage": "https://www.watch.impress.co.jp/img/ipw/list/1591/180/ios2.jpg",
+  "publishedAt": "20240514T03:07:17Z",
+  "content": "AppleGoogleBluetoothDetecting Unwanted Location Trackers()iOSAndroidiOSAndroid \r\n 14iOS 17.5GoogleAndroid 6.0 \r\n Detecting Unwanted Location TrackersBluetooth[]iOSAndroid \r\n iOSAirTagBluetooth \r\n iPh… [+136 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Overclockers.ru"
+  },
+  "author": "ddr22",
+  "title": "Apple и OpenAI заключили сделку, чтобы добавить функции ChatGPT в Siri и iOS 18",
+  "description": "Это стало возможным благодаря большим инвестициям Apple в искусственный интеллект.",
+  "url": "https://overclockers.ru/blog/ddr77/show/157633/AppleiOpenAIzakljuchilisdelkuchtobyprivnestifunkciiChatGPTvSiriiiOS18",
+  "urlToImage": "https://overclockers.ru/st/legacy/blog/145016/515677_O.png",
+  "publishedAt": "20240514T04:08:02Z",
+  "content": "Apple OpenAI ChatGPT iOS 18 Siri. Apple OpenAI, Google Baidu  . OpenAI.\r\niOS 18 iPhone , . Apple , Siri . , Apple OpenAI, iPhone .\r\n, Apple ChatGPT iOS 18. , Siri . , Apple , .\r\n OpenAI, Apple Googl… [+45 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Overclockers.ru"
+  },
+  "author": "Niko4123",
+  "title": "Apple работает над сделкой с OpenAI, чтобы установить на iPhone ChatGPT",
+  "description": "Ожидается, что предстоящие функции искусственного интеллекта появятся на iPhone с обновлением iOS 18.",
+  "url": "https://overclockers.ru/blog/New_Intel_Raptor_ES/show/157630/ApplerabotaetnadsdelkojsOpenAIchtobyustanovitnaiPhoneChatGPT",
+  "urlToImage": "https://overclockers.ru/st/legacy/blog/416880/515670_O.png",
+  "publishedAt": "20240514T01:36:03Z",
+  "content": ", Apple . Apple Google  Gemini iOS, . , OpenAI, , .\r\n, , Apple , , iOS 18 (WWDC) . Apple , iPhone , , , Apple M2 Ultra.\r\n, Apple ,  Siri. \" \", ChatGPT. , Siri .\r\n 10 , WWDC 2024."
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Overclockers.ru"
+  },
+  "author": "ddr22",
+  "title": "ChatGPT выходит на рабочий стол ПК с новейшей моделью GPT4o с голосовыми функциями",
+  "description": "OpenAI представила новую модель GPT4o (Omni) для приложения ChatGPT, которая обеспечивает улучшенные общие возможности и голосовое взаимодействие с пользователями.",
+  "url": "https://overclockers.ru/blog/ddr77/show/157620/ChatGPTvyhoditnarabochijstolsnovejshejmodeljuGPT4ootOpenAIkotorayarazgovarivaet",
+  "urlToImage": "https://overclockers.ru/st/legacy/blog/145016/515652_O.png",
+  "publishedAt": "20240514T00:48:02Z",
+  "content": "OpenAI GPT4o (Omni), ChatGPT. , . ChatGPT , . OpenAI , 232 , . \r\nGPT4o . 50 . , OpenAI ChatGPT, , . macOS, Windows.\r\n GPT4o Free, Plus Team, 5 . Apple OpenAI, Apple."
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Overclockers.ru"
+  },
+  "author": "ddr22",
+  "title": "MediaTek и NVIDIA совместно разрабатывают конкурента Snapdragon X Elite",
+  "description": "Предполагается, что чипсет будет использовать передовые технологии и будет производиться по 3нм техпроцессу TSMC.",
+  "url": "https://overclockers.ru/blog/ddr77/show/157631/MediaTekiNVIDIAsovmestnorazrabatyvajutkonkurentaSnapdragonXElite",
+  "urlToImage": "https://overclockers.ru/st/legacy/blog/145016/515674_O.png",
+  "publishedAt": "20240514T03:12:02Z",
+  "content": "MediaTek NVIDIA , Qualcomm Snapdragon X Elite. , 3 TSMC. , M4 Apple, . , , 300 .\r\nMediaTek NVIDIA . MediaTek NVIDIA, , .\r\n, , 2025 .  , 3 TSMC .\r\n CoWoS (Chiponwaferonsubstrate) TSMC. , .\r\n , … [+28 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Iphonemania.jp"
+  },
+  "author": "FT729",
+  "title": "【まとめ】11インチiPad Pro（M4）の進化〜（第1世代）、（第4世代）と比較",
+  "description": "Appleが、2024年5月7日に有機（OLED)ディスプレイを搭載するiPad Pro（M4）を発表しました。 この記事では、11インチiPad Pro（M4）を、A12X Bionicを搭載した（第1世代）、先日まで […]",
+  "url": "https://iphonemania.jp/news580184/",
+  "urlToImage": "https://iphonemania.jp/uploads/2024/05/14/11iPadProM4comp.jpg",
+  "publishedAt": "20240514T03:03:39Z",
+  "content": "Apple202457OLED)iPad ProM4\r\n11iPad ProM4A12X Bionic14\r\nFace ID11iPad Pro1411iPad ProM4OLED\r\n1TB2TBNanotexture\r\n<table><tr><td> </td><td> 11iPad ProM4</td><td>11iPad Pro4 </td><td>11iPad Pro1 </td></… [+3446 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Iphonemania.jp"
+  },
+  "author": "FT729",
+  "title": "【まとめ】13インチiPad Pro（M4）と旧機種〜液晶、ミニLEDからOLEDへ",
+  "description": "Appleが、2024年5月7日に有機（OLED)ディスプレイを搭載するiPad Pro（M4）を発表しました。 この記事では、13インチiPad Pro（M4）を、M1を搭載した（第5世代）、初めてFace IDを搭載 […]",
+  "url": "https://iphonemania.jp/news580359/",
+  "urlToImage": "https://iphonemania.jp/uploads/2024/05/14/ipadprom4comp.jpg",
+  "publishedAt": "20240514T04:25:07Z",
+  "content": "Apple202457OLED)iPad ProM4\r\n13iPad ProM4M15Face ID3\r\n12.9iPad Pro3Face ID5LED13iPad ProM4OLED\r\n13iPad ProM41TB2TBNanotexture\r\n<table><tr><td> </td><td> 13iPad ProM4</td><td>12.9iPad Pro5 </td><td>12… [+3643 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Kocpc.com.tw"
+  },
+  "author": "Ross Wang",
+  "title": "Android 手機支援運行 Chrome OS 證據被挖出，還被裝在 Pixel 7 Pro 實測了！",
+  "description": "你期待的手機系統與桌面系統的「真．雙系統」支援，Google 可能就要送來給你了。繼續閱讀 Android 手機支援運行 Chrome OS 證據被挖出，還被裝在 Pixel 7 Pro 上報導內文。\nThe post Android 手機支援運行 Chrome OS 證據被挖出，還被裝在 Pixel 7 Pro 實測了！ appeared first on 電腦王阿達.",
+  "url": "https://www.kocpc.com.tw/archives/546882",
+  "urlToImage": "https://www.kocpc.com.tw/wpcontent/uploads/2024/05/firstlookatchromeosrunning.jpg",
+  "publishedAt": "20240514T01:20:17Z",
+  "content": "Google Android Chrome OS Pixel 7 Pro Android Authority\r\nGoogle \r\n Google I/O Keynote Android Authority Google Pixel 8 AVFAndroid Virtualization Framework Chorme OS Chromium OS Demo\r\n AOSP Android AVF… [+263 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Bloguismo.com"
+  },
+  "author": "Anairas",
+  "title": "Reddish Light Blue Slot machine ᗎ Gamble Totally free Casino Game On the internet By the Igt",
+  "description": "Articles Eyecon Casino slot games Ratings No 100 percent free Online game Totally free Slots On line Free Slots Video game Zero Subscription Past date we were inside Vegas, lots of participants we talked to help you had been to try out this game simply to sen…",
+  "url": "https://www.bloguismo.com/reddishlightblueslotmachine%e1%97%8egambletotallyfreecasinogameontheinternetbytheigt/",
+  "urlToImage": "https://g.twimg.com/Twitter_logo_blue.png",
+  "publishedAt": "20240514T03:11:27Z",
+  "content": "Past date we were inside Vegas, lots of participants we talked to help you had been to try out this game simply to sense strictly on the music sense. The players i talked so you can think the brand n… [+5238 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Bloguismo.com"
+  },
+  "author": "Anairas",
+  "title": "Verbunden Spielbank Über Natel Begleichen Im Anno 2024",
+  "description": "Content Konnte Ich Meine Telefonrechnung Inoffizieller mitarbeiter Casino Begleichen? Überblick: Wann Kann Ein Taschentelefon Geschlossen Werden? Spielbank Venetian Obwohl diese Zahlungsmethode in Ländern entsprechend Großbritannien ferner Finnland praktizier…",
+  "url": "https://www.bloguismo.com/verbundenspielbankubernatelbegleichenimanno2024/",
+  "urlToImage": "https://g.twimg.com/Twitter_logo_blue.png",
+  "publishedAt": "20240514T02:27:41Z",
+  "content": "Obwohl diese Zahlungsmethode in Ländern entsprechend Großbritannien ferner Finnland praktiziert wird, ist und bleibt eltern heute inside Deutschland ferner Alpenrepublik auf keinen fall verfügbar. As… [+5625 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Bloguismo.com"
+  },
+  "author": "Anairas",
+  "title": "10 Sachen Nachfolgende Du Jetzt Angeschlossen Spielsaal 1 Mit Handyrechnung Bezahlen Kannst",
+  "description": "Content Gewissheit Hierbei Nachfolgende Schlussbetrachtung Der Besten Erreichbar Casinos Unter einsatz von Handy Kalkulation Zahlung Inside Alpenrepublik Verbunden Kasino Via Handyrechnung Bezahlen Alpenrepublik: Schlussbetrachtung Man sollte gegenseitig defi…",
+  "url": "https://www.bloguismo.com/10sachennachfolgendedujetztangeschlossenspielsaal1mithandyrechnungbezahlenkannst/",
+  "urlToImage": "https://g.twimg.com/Twitter_logo_blue.png",
+  "publishedAt": "20240514T00:53:12Z",
+  "content": "Man sollte gegenseitig definitiv bereits inoffizieller mitarbeiter Vorfeld darüber hinweisen, auf diese weise man sekundär real ohne ausnahme die gewünschten Beiträge überweisen konnte. Einzahlungsge… [+7671 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Xataka.com.mx"
+  },
+  "author": "MartinPixel",
+  "title": "“Es mucho mejor que Star Wars”: George Lucas cree que esta película definitiva de ciencia ficción y es difícil que alguien la supere",
+  "description": "George Lucas es una de las grandes mentes del cine de ciencia ficción por crear la saga de Star Wars y un negocio que ha logrado mantenerse, evolucionar y convertirse en un referente de cómo puedes llevar tu producto mucho más allá del cine. A pesar de estar …",
+  "url": "https://www.xataka.com.mx/cineytv/muchomejorquestarwarsgeorgelucascreequeestapeliculadefinitivacienciaficciondificilquealguiensupere",
+  "urlToImage": "https://i.blogs.es/b032b8/starwars/840_560.jpeg",
+  "publishedAt": "20240514T02:01:50Z",
+  "content": "George Lucas es una de las grandes mentes del cine de ciencia ficción por crear la saga de Star Wars y un negocio que ha logrado mantenerse, evolucionar y convertirse en un referente de cómo puedes l… [+1606 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Xataka.com.mx"
+  },
+  "author": "Steve Saldaña",
+  "title": "Estados Unidos y China por fin se sientan a charlar y tienen un tema prioritario: la IA",
+  "description": "En un esfuerzo para llegar a acuerdos poco antes visto en los últimos años, China y Estados Unidos por fin tienen voluntad de charlar y llegar a convenios, especialmente en lo que se refiere a la inteligencia artificial. Oficiales de ambos países tendrán reun…",
+  "url": "https://www.xataka.com.mx/politica/estadosunidoschinafinsesientanacharlartienentemaprioritarioia",
+  "urlToImage": "https://i.blogs.es/bb6ac5/chinaestadosunidos/840_560.jpeg",
+  "publishedAt": "20240514T01:00:09Z",
+  "content": "En un esfuerzo para llegar a acuerdos poco antes visto en los últimos años, China y Estados Unidos por fin tienen voluntad de charlar y llegar a convenios, especialmente en lo que se refiere a la int… [+3492 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "CNA"
+  },
+  "author": null,
+  "title": "Twice's Dahyun in talks to star in Korean adaptation of You Are The Apple Of My Eye",
+  "description": "She will also be in upcoming sports film Sprint, starring alongside Ha Seokjin and Lee Sinyoung.",
+  "url": "https://cnalifestyle.channelnewsasia.com/entertainment/twicedahyunkoreanremakeyouareapplemyeye390176",
+  "urlToImage": "https://onecmsres.cloudinary.com/image/upload/sWGYi5FnP/c_crop,h_660,w_1174,x_0,y_234/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/14/img_2066.jpg?itok=yRdQrRC",
+  "publishedAt": "20240514T02:45:19Z",
+  "content": "Twices Dahyun has received an offer to star as the female lead in the Korean remake of the Taiwanese film, You Are The Apple Of My Eye. \r\nNews of Dahyun's casting was first reported by Korean news ou… [+862 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Aktualne.cz"
+  },
+  "author": "Michaela Lišková",
+  "title": "Velký hráč internetu se bojí generace Z. Možná úplně změní pravidla, míní expert",
+  "description": "\"Pro generaci Z je TikTok dominantní médium stejně jako pro starší generaci byla televize,\" říká odborník na sociální sítě Jan Zápotocký z FSV UK.",
+  "url": "https://zpravy.aktualne.cz/spotlight/zapotockyvelkyhracinternetusebojigeneraceztamoznau/r~2c2dbb58017811efbb77ac1f6b220ee8/",
+  "urlToImage": "https://cdn.xsd.cz/resize/f76a5e55d4793f35ab824f1a088a2cff_.jpg?hash=dbd8ed077078e08f60d894f3c4ee3139",
+  "publishedAt": "20240514T03:05:44Z",
+  "content": "Rozdíl je vidět i mezi mileniály a generací Z. \"Mileniálové jdou obecně víc na ten web. Třeba Wikipedie je pro ně mnohem důležitější než pro generaci Z. Mladší lidé potřebují mnohem dynamičtější obsa… [+1190 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Goodereader"
+  },
+  "author": "Michael Kozlowski",
+  "title": "Apple News+ now supports offline reading",
+  "description": "Today, Apple rolled out a new update for the iPad and iPhone, with the advent of iOS 17.5. One of the exciting additions is the Offline mode in Apple News+, which grants you access to the Today feed and News+ tab even when you’re offline. This means you can n…",
+  "url": "https://goodereader.com/blog/ebooknews/applenewsnowsupportsofflinereading",
+  "urlToImage": "https://assets.goodereader.com/blog/uploads/images/2024/05/14001430/AppleNewsPlusOfflineMode_inline.jpg.large_2x.jpg",
+  "publishedAt": "20240514T04:15:42Z",
+  "content": "Today, Apple rolled out a new update for the iPad and iPhone, with the advent of iOS 17.5. One of the exciting additions is the Offline mode in Apple News+, which grants you access to the Today feed … [+1023 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Svethardware.cz"
+  },
+  "author": "Milan Šurkala",
+  "title": "Brýle Apple Vision Pro 2 prý mají být o polovinu levnější a začít na 15002500 USD",
+  "description": "Další zajímavé úniky kolují kolem chystané nové generace brýlí pro virtuální realitu, Apple Vision Pro 2. Ty by prý měly být mnohem levnější než nynější generace, která je za opravdu vysokých 3500 USD.",
+  "url": "https://www.svethardware.cz/bryleapplevisionpro2prymajibytopolovinulevnejsiazacitna15002500usd/60685",
+  "urlToImage": "https://www.svethardware.cz/bryleapplevisionpro2prymajibytopolovinulevnejsiazacitna15002500usd/60685/img/applevisionpro800.webp",
+  "publishedAt": "20240514T04:25:14Z",
+  "content": ""
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Cnbeta.com.tw"
+  },
+  "author": "ytzong",
+  "title": "iOS 17.5 的新功能概览",
+  "description": "苹果公司最近发布了 iOS 最新版本 iOS 17.5。如果你在欧盟国家，它将为iPhone带来一些重大变化；如果你不在欧盟国家，它也会带来一些较小的更新。在本文中，我们汇总了 iOS 17.5 中的所有新功能。\r\n从网站下载应用程序（仅限欧盟）iOS 17.5 在欧盟地区支持基于网络的应用程序分发，允许开发者直接在其网站上提供应用程序下载。iPhone 用户可以从支持的网站下载 iOS 应用程序，而无需使用App Store。与iOS 17.4新增替代应用市场的变更一样，这一功能仅限于 iPhone，而且只能在…",
+  "url": "https://www.cnbeta.com.tw/articles/tech/1430796.htm",
+  "urlToImage": "https://www.cnbeta.com.tw//www.youtube.com/embed/t7bpsFrsyH8\" frameborder=\"0\"></iframe></p><p><strong>从网站下载应用程序（仅限欧盟）</strong></p><p>iOS 17.5 在欧盟地区支持基于网络的应用程序分发，允许开发者直接在其网站上提供应用程序下载。iPhone 用户可以从支持的网站下载 iOS 应用程序，而无需使用App Store。</p><p>与iOS 17.4新增替代应用市场的变更一样，这一功能仅限于 iPhone，而且只能在欧盟使用。开发者需要连续两年或两年以上成为苹果开发者计划的成员，并且在上一年 iOS 上的首次安装次数必须超过一百万次，才能提供应用程序下载。</p><p>所有从网站下载到 iPhone 上的应用程序都必须经过苹果公司的公证程序，虽然无需向苹果公司支付佣金，但苹果公司会收取 0.50 欧元的核心技术费。虽然目前只在 iPhone 上实现了这一功能，但苹果将在今年晚些时候把同样的功能带到iPad上。</p><p><strong>Apple News+</strong></p><p>Apple News+ 现在有了离线模式，即使没有蜂窝网络或 WiFi 连接，也能访问 Today feed 和 News+ 标签。</p><p>Apple News+ 包含一个名为 Quartiles 的全新每日文字游戏。游戏要求玩家将拼图组合成单词并获得积分。Quartiles 仅限于付费订阅 Apple News+ 的用户。</p><p><img src=\"https://static.cnbetacdn.com/article/2024/0514/fc203c9d088f7fb.jpg",
+  "publishedAt": "20240514T02:06:18Z",
+  "content": "iOS 17.5 iPhone iOS App Store\r\niOS 17.4 iPhone iOS \r\n iPhone 0.50 iPhone iPad\r\nApple News+\r\nApple News+ WiFi Today feed News+ \r\nApple News+ Quartiles Quartiles Apple News+ \r\nApple News+ Puzzles Quar… [+232 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Cnbeta.com.tw"
+  },
+  "author": "ytzong",
+  "title": "苹果营销副总裁：iPad和Mac存在功能互补 而非竞争产品",
+  "description": "《华尔街日报》的乔安娜斯特恩（Joanna Stern）采访了苹果公司负责iPad和 Mac 营销的副总裁汤姆博格（Tom Boger）。斯特恩重点比较了 iPad Pro 和 MacBook，并就苹果对这两款设备的看法提出了一些有针对性的问题。\r\n博格认为，苹果将 iPad Pro 和 Mac 视为可以同时使用的设备。他说：\"我们不认为它们是相互竞争的设备，它们更像是存在互补的设备。iPad 是一款\"触摸优先的设备\"，而 Mac 则是为使用鼠标或键盘进行\"间接操作\"而设计的，这也是苹果多年来多次重申的观点。…",
+  "url": "https://www.cnbeta.com.tw/articles/tech/1430794.htm",
+  "urlToImage": "https://static.cnbetacdn.com/article/2024/0514/847097d6e9e50e3.jpg",
+  "publishedAt": "20240514T02:05:53Z",
+  "content": "iPad Pro Mac \"iPad \"\" Mac \"\"\"\r\n iPad Mac Mac \"macOS iPad Continuity\"\"Mac \"\r\n Mac \"\"\r\n MacBook iPad iPad 5G Mac Mac \r\n Stern Boger \r\nhttps://www.wsj.com/tech/personaltech/ipadprovsmacbookthegrea… [+50 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Podcasty.hn.cz"
+  },
+  "author": "Tomáš Lysoněk",
+  "title": "Kam přesunout peníze ze „spořáků“ a jak nejlépe investovat na penzi. Poradí nový speciál HN Rentiér",
+  "description": "Doba štědrých úrokových sazeb na spořicích účtech je už pryč, stále ale existuje řada alternativ, kam je možné přesunout peníze a dosáhnout na solidní zhodnocení. Jejich podrobný přehled přináší aktuální vydání speciálu HN Rentiér, které vychází v úterý 14. k…",
+  "url": "https://podcasty.hn.cz/c167323020kampresunoutpenizezebdquosporakuldquoajaknejlepeinvestovatnapenziporadinovyspecialhnrentier",
+  "urlToImage": "https://img.ihned.cz/attachment.php/550/76584550/o96B5hVxbRNIP3C8yekUztvuEnLqlfO1/do_clanku_1280X720_TL.jpg",
+  "publishedAt": "20240514T04:30:00Z",
+  "content": "Doba tdrých úrokových sazeb na spoicích útech je u pry, stále ale existuje ada alternativ, kam je moné pesunout peníze a dosáhnout na solidní zhodnocení. Jejich podrobný pehled pináí aktuální vydání … [+724 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Ithome.com"
+  },
+  "author": null,
+  "title": "苹果 Vision Pro 现已通过国家 3C 认证，有望 WWDC24 后发售",
+  "description": "IT之家 5 月 14 日消息，昨天有两款苹果新设备通过了国家 3C 质量认证，其中之一显示为“穿戴式电脑”，型号为 A2117，由立铠精密代工，很显然就是苹果 Vision Pro。除此之外，还有一款型号为 A2781 的移动电源新品也通过了 3C 认证，显示由歌尔股份代工，即 Vision Pro 的配套电池。值得一提的是，彭博社的马克・古尔曼前几天还报道称，苹果 Apple Vision Pro 头显即将在美国以外的国家和地区开售，来自全球各地的零售店员工已经飞往库比蒂诺参加为期 4 天的 Vision P…",
+  "url": "https://www.ithome.com/0/767/793.htm",
+  "urlToImage": null,
+  "publishedAt": "20240514T03:27:07Z",
+  "content": "IT 5 14 3C A2117 Vision Pro\r\nA2781 3C Vision Pro \r\n Apple Vision Pro 4 Vision Pro \r\nVision Pro Vision Pro  WWDC24  Vision Pro 6 10 14 \r\n Vision Pro Vision Pro WWDC WWDC \r\n Vision Pro Vision Pro 3500 … [+12 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Arigatoipod.com"
+  },
+  "author": "Ygn",
+  "title": "Apple TV+でアニメ「がまくんとかえるくん」シーズン2を5月31日から配信。予告編を公開",
+  "description": "Apple TV+でアニメシリーズ「がまくんとかえるくん」のシーズン2が、5月31日（金）から配信開始されます。 アーノルド・ローベルの絵本シリーズをアニメ化したものです。 アーノルド・ローベルによる人気シリーズ。かえる...\nThe post Apple TV+でアニメ「がまくんとかえるくん」シーズン2を5月31日から配信。予告編を公開 first appeared on アイアリ.",
+  "url": "https://arigatoipod.com/2024/05/appletvplusfrogandtoadseason2trailer.html",
+  "urlToImage": "https://arigatoipod.com/wp/wpcontent/uploads/2024/05/240514frogandtoadseasontwo.jpg",
+  "publishedAt": "20240514T03:01:02Z",
+  "content": "Apple TV+でアニメシリーズ「がまくんとかえるくん」のシーズン2が、5月31日（金）から配信開始されます。\n\nアーノルド・ローベルの絵本シリーズをアニメ化したものです。\n\nアーノルド・ローベルによる人気シリーズ。かえるくんとがまくんには、似ているところがありません。かえるくんは新しい冒険が好きで、がまくんはおうちでくつろぐことが好きです。そんな違いがあっても、かえるくんとがまくんはいつだっ… [+942 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Letemsvetemapplem.eu"
+  },
+  "author": "Amaya Tomanová",
+  "title": "Způsobí Apple Vision Pro revoluci ve zdravotnictví? Používá ho čím dál víc lékařů!",
+  "description": "Když společnost Apple poprvé představila světu svůj headset Vision Pro, vyzdvihovala především jeho benefity a přínosy pro zábavu, kreativitu a produktivitu. Pravdou ale je, že Vision Pro si nachází své užitečné uplatnění také na poli lékařské vědy. Lékařská …",
+  "url": "https://www.letemsvetemapplem.eu/2024/05/14/zpusobiapplevisionprorevolucivezdravotnictvipouzivahocimdalviclekaru/",
+  "urlToImage": "https://www.letemsvetemapplem.eu/wpcontent/uploads/2024/01/AppleVisionProavailabilitybackangle.jpg",
+  "publishedAt": "20240514T04:00:29Z",
+  "content": "Kdy spolenost Apple poprvé pedstavila svtu svj headset Vision Pro, vyzdvihovala pedevím jeho benefity a pínosy pro zábavu, kreativitu a produktivitu. Pravdou ale je, e Vision Pro si nachází své uiten… [+1673 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Softantenna.com"
+  },
+  "author": "saadmin",
+  "title": "Apple、macOS Sonoma 14.5正式版を公開  重要な不具合を修正",
+  "description": "Appleは本日、macOS Sonomaの最新アップデート「macOS Sonoma 14.5」の正式版をリリースしました(MacRumors)。 macOS Sonoma Mac App Storeカテゴリ: ユーティリティ価格: 無料",
+  "url": "https://softantenna.com/blog/macos145/",
+  "urlToImage": "https://softantenna.com/blog/wpcontent/uploads/2024/05/800x500bb2.jpeg",
+  "publishedAt": "20240514T00:54:06Z",
+  "content": "ApplemacOS SonomamacOS Sonoma 14.5(MacRumors)\r\nmacOS Sonoma 14.5(Apple News+)\r\nWeb()"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Softantenna.com"
+  },
+  "author": "saadmin",
+  "title": "Apple、iOS 17.5とiPadOS 17.5の正式版をリリース  新しいプライドラディアンスの壁紙やトラッキング通知機能が追加",
+  "description": "Appleは本日、iOSの最新版「iOS 17.5」とiPadOSの最新版「iPadOS 17.5」の正式版をそれぞれリリースしました(MacRumors)。 iOSとiPadOSの最新版は、MacのFinderやWindowsのiTune",
+  "url": "https://softantenna.com/blog/ios175/",
+  "urlToImage": "https://softantenna.com/blog/wpcontent/uploads/2024/05/ios_17_51.jpg",
+  "publishedAt": "20240514T00:46:12Z",
+  "content": "AppleiOSiOS 17.5iPadOSiPadOS 17.5(MacRumors)\r\niOSiPadOSMacFinderWindowsiTunesiPhone/iPad( &gt; &gt; )\r\niOS 17.5Bluetooth\r\n* LGBTQ+\r\n* Bluetooth\r\nWeb()"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Berliner Morgenpost"
+  },
+  "author": "FUNKE Mediengruppe",
+  "title": "Künstliche Intelligenz redet wie ein Mensch und singt sogar",
+  "description": "Ein Sprachassistent, mit dem man sich wie mit Menschen unterhalten und Emotionen teilen kann: ChatGPT mit verblüffenden Fähigkeiten.",
+  "url": "https://www.morgenpost.de/ratgeber/article242329810/KuenstlicheIntelligenzredetwieeinMenschundsingtsogar.html",
+  "urlToImage": "https://img.sparknews.funkemedien.de/242329808/242329808_1715658384_v16_9_1600.jpeg",
+  "publishedAt": "20240514T03:46:25Z",
+  "content": "San Francisco. Ein Sprachassistent, mit dem man sich wie mit Menschen unterhalten und Emotionen teilen kann: ChatGPT mit verblüffenden Fähigkeiten.\r\nDer populäre Chatbot ChatGPT kann jetzt eine Unter… [+6301 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Gooyait.com"
+  },
+  "author": "زهرا معبودی",
+  "title": "جدیدترین سیستم عامل اپل iOS 17.5 منتشر شد + جزییات",
+  "description": "اپل به دلیل قوانین جدید اتحادیه اروپا مجبور به کناره گیری از برخی از محدودیت های طولانی مدت خود شده است. با این حال، یک نکته مهم این است که […]\nنوشته جدیدترین سیستم عامل اپل iOS 17.5 منتشر شد + جزییات اولین بار در گويا آی‌ تی پدیدار شد.",
+  "url": "https://www.gooyait.com/1403/02/25/appleios175release.html",
+  "urlToImage": "https://www.gooyait.com/uploads/2024/05/newios2024.jpg",
+  "publishedAt": "20240514T04:30:04Z",
+  "content": ". . iOS iOS 17.5 .\r\n iOS 17.5\r\niOS 17.5 iPadOS 17.5 &gt; &gt; (Settings &gt; General &gt; Software Update) .\r\niOS 17.5\r\n iOS 17.5 iPadOS 17.5 . Apple News+ Today News+ .\r\n Quartiles Apple News+ . App… [+146 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Sabah.com.tr"
+  },
+  "author": "www.sabah.com.tr",
+  "title": "Güvenli internetle çocuklara kalkan",
+  "description": "Çocuklar internete her zamankinden daha genç yaşlarda erişiyor. Birleşmiş Milletler’e göre, dünya çapında her yarım saniyede bir çocuk internetle tanışıyor. Araştırma şirketleri, çocukları teknolojinin olumsuz etkilerinden korumak için çeşitli uygulamaları de…",
+  "url": "https://www.sabah.com.tr/yasam/guvenliinternetlecocuklarakalkan6938787",
+  "urlToImage": "https://iasbh.tmgrup.com.tr/097b37/1200/675/0/43/1816/1065?u=https://isbh.tmgrup.com.tr/sbh/2024/05/13/guvenliinternetlecocuklarakalkan1715621721006.jpeg",
+  "publishedAt": "20240514T04:00:43Z",
+  "content": "Dünya çapnda birçok hükümet çocuklar internette de korumak için önlemler almaya çalyor. Western Sydney Üniversitesi'ndeki bir aratrma merkezi ile Save the Children isimli sivil toplum kuruluu tarafnd… [+2249 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Smzdm.com"
+  },
+  "author": "充电头网评测室",
+  "title": "评测杜蕾斯 10000mAh 磁吸充电宝，快充兼容性优秀，但输出不够持久",
+  "description": "前言自从苹果（Apple.lnc）在手机上搭载了 MagSafe 磁吸功能，截至目前已经有大量数码配件品牌厂商为iPhone推出过磁吸充电宝，而充电头网近期还发现，专注于计生用品的杜蕾斯也跨界推出了磁...",
+  "url": "https://post.smzdm.com/p/apm4zzd7/",
+  "urlToImage": "https://qna.smzdm.com/202405/14/6642caa368a9c6826.jpg_fo742.jpg",
+  "publishedAt": "20240514T03:30:15Z",
+  "content": "Apple.lnc MagSafe iPhone\r\n10000mAhPD 20WiPhone\r\ndurex\r\nQ9\r\n104*68*18.5mm\r\n10000mAh/3.7V/37Wh\r\n5500mAh5V 2A\r\n5V/2ALightning5V/3A9V/2A12V/1.5ATypeC\r\nTypeC 5V/2A9V/2.22A12V/1.5AMax\r\n 10000mAh \r\n 10000… [+933 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "TechNode"
+  },
+  "author": "Steven Lee",
+  "title": "苹果 Vision Pro 有望在 WWDC24 后于中国等市场发售",
+  "description": "根据彭博社马克·古尔曼的说法，苹果公司即将在美国以外的国家和地区开售 Apple Vision Pro，来自全球各地的零售店员工已经飞往库比蒂诺参加为期 4 天的 Vision Pro 培训课程，培训已于上周开始。 苹果在 Vision Pro",
+  "url": "https://cn.technode.com/post/20240514/gurmanapplevisionprochinareport/",
+  "urlToImage": "https://cn.technode.com/wpcontent/blogs.dir/18/files/2024/02/VisionProromeoaQ9Cqgvzh298unsplash.jpg",
+  "publishedAt": "20240514T02:06:25Z",
+  "content": "· Apple Vision Pro 4 Vision Pro \r\n Vision Pro Vision Pro WWDC24 Vision Pro 6 11 15 \r\n Vision Pro Vision Pro WWDC WWDC \r\n Vision Pro Vision Pro 3500"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Tistory.com"
+  },
+  "author": "T.B",
+  "title": "윤석열, \"또 살해 시도 및 죽어도 11월 5일 결과 보고 죽겠다.\"",
+  "description": "코로나 19 팬데믹 회복 시점과 미중 패권 분쟁의 기점이 맞물린 시기에 러시아가 우크라이나 침공을 저질렸죠. 그로 인해 올해 미국 대선을 앞두고 공급망, 식량, 에너지 인플레이션이 오르면서 '불행지수'가 높아진 미국의 조 바이든 대통령 재선에 걸림돌이 되어 왔습니다. 상황의 반전은 도널드 트럼프가 \"우크라이나, 맥시코 패키지\"를 뒤집는 바람에 시작이 됐죠. 인플레이션의 원인이 트럼프가 되자 역사상 가장 극우 네타냐후의 가자지구 재건사업에 개입을 하지 못하게 유…",
+  "url": "https://ryueyes11.tistory.com/18083",
+  "urlToImage": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FBQudt%2FbtsHpLzxNc5%2FM7tc3PPK1AvtRCldEA4pb0%2Fimg.webp",
+  "publishedAt": "20240514T03:12:29Z",
+  "content": "19 . , , '' .\r\n \", \" . (EU) \" \" .\r\n \"\" \"\" (TSLA) CEO \" \" \" \" .\r\nNew Zealand is experiencing a record exodus of citizens as a sluggish economy reduces job opportunities.\r\nNet departures rose to 52,500… [+2341 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Elespanol.com"
+  },
+  "author": "Chema Flores",
+  "title": "He probado los nuevos iPad Pro y iPad Air de Apple: un rendimiento bestial con un diseño más liviano y delgado",
+  "description": "Apple pone a la venta este miércoles en España sus nuevas tablets, ya las hemos estado utilizando durante cinco días para ponerlas a prueba.",
+  "url": "https://www.elespanol.com/omicrono/analisispruebaproductos/20240514/probadonuevosipadproairapplerendimientobestialdisenolivianodelgado/854914569_0.html",
+  "urlToImage": "https://s1.elespanol.com/2024/05/13/omicrono/analisispruebaproductos/854925507_242270112_1706x960.jpg",
+  "publishedAt": "20240514T00:21:32Z",
+  "content": "Apple ha roto la baraja con el nuevo iPad Pro. Su nueva tableta desafía los límites físicos con el diseño más delgado jamás realizado, al tiempo que incorpora una potencia descomunal con el nuevo chi… [+11065 chars]"
+  },
+  {
+  "source": {
+  "id": "thetimesofindia",
+  "name": "The Times of India"
+  },
+  "author": "Reuters",
+  "title": "S&P 500 barely changes as investors hold tight ahead of inflation data",
+  "description": "A Federal Reserve Bank of New York survey, released on Monday, found that Americans see inflation at 3.3% a year from now from March's 3% while they expect inflation three years from now at 2.8%. This followed a University of Michigan report on Friday that sh…",
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/sp500barelychangesasinvestorsholdtightaheadofinflationdata/articleshow/110098858.cms",
+  "urlToImage": "https://img.etimg.com/thumb/msid110098881,width1200,height630,imgsize62010,overlayetmarkets/photo.jpg",
+  "publishedAt": "20240514T01:06:10Z",
+  "content": "The S&amp;P 500 closed very slightly lower on Monday as investors took a breather after three weekly gains while they awaited key inflation readings and earnings reports due this week while a survey … [+4055 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Elconfidencial.com"
+  },
+  "author": "Juan Soto Ivars",
+  "title": "Lo más odiado | \"Si Sánchez no dimitió, algún sentido tiene que tener tanto paripé\"",
+  "description": "Alberto Olmos y Juan Soto Ivars se sientan para un episodio especial de Lo más odiado. Hay un tema central en su conversación: la carta de Pedro Sánchez y sus cinco días de tensión",
+  "url": "https://www.elconfidencial.com/espana/20240514/podcastmasodiadosanchezmintioparipe_3882663/",
+  "urlToImage": "https://images.ecestaticos.com/Yn8NRZPeiN2BkuQS4PyDMvg=/0x0:1920x1080/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/91a/83c/25e/91a83c25e9244c8ca98532a45be10a30.jpg",
+  "publishedAt": "20240514T03:00:00Z",
+  "content": "Alberto Olmos y Juan Soto Ivars han hecho, por fin, un episodio de su pódcast con verdaderas ganas. Lo demuestra la duración especial, aunque el tema sobre el que gira la conversación daría para hace… [+734 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Techbang.com"
+  },
+  "author": "netizen",
+  "title": "Apple和Google聯手打造跨平台藍牙追蹤防護標準，終結藍牙追蹤器的濫用",
+  "description": "Apple和Google聯手打造跨平台藍牙追蹤防護標準，終結藍牙追蹤器的濫用為打擊濫用追蹤物品的裝置，Apple和Google攜手合作制定了一項關於藍牙追蹤裝置的行業標準——「偵測不受歡迎的位置追蹤器」，這可以讓iOS和Android平台的使用者如果在不知不覺中被追蹤，都能收到警告。這將有助於減少設計用於追蹤個人物品的裝置的濫用。蘋果公司今天在iOS 17.5中加入了這項功能，而Google則在Android 6.0及以上版本的裝置上推出了這一項功能。\n有了這項新功能，如果使用者發現一個未知的藍牙追蹤裝置隨著使用…",
+  "url": "https://www.techbang.com/posts/115293applegooglestandardbluetoothtracking",
+  "urlToImage": "https://cdn1.techbang.com/system/excerpt_images/115293/original/4dc47334d6e077dd910ebe275fcc3778.jpg?1715657081",
+  "publishedAt": "20240514T04:00:00Z",
+  "content": "AppleGoogleiOSAndroidiOS 17.5GoogleAndroid 6.0\r\n[×××] \r\niOSAirTagFind MyiPhone ChipoloeufyJioMotorola Pebblebee"
+  }
+  ]
+  }
